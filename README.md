@@ -14,4 +14,9 @@ You are working with a dataset that includes details of sales transactions. This
 - **COUNTRY**: Country where the order was shipped.
 - **DEALSIZE**: Size of the deal (Small, Medium, Large).
 
+- ### Chosen Dependent Variables
+- **SALES** is an ideal dependent variable for Linear Regression as we aim to understand what factors drive the total sales amount.
+- The **QUANTITYORDERED**, **PRICEEACH**, and **DEALSIZE** can be considered strong predictors of the total sales.
+
+
 
