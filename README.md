@@ -2,7 +2,8 @@
 TOPIC: Sales Data
 ## Explanation of the Topic
 You are working with a dataset that includes details of sales transactions. This dataset can be analyzed using Linear Regression techniques to uncover patterns in sales and predict future outcomes.
-Key characteristics and variables of the dataset include:
+
+#Key characteristics and variables of the dataset include:
 - **ORDERNUMBER**: Unique identifier for each order.
 - **QUANTITYORDERED**: Number of units ordered.
 - **PRICEEACH**: Price per unit.
