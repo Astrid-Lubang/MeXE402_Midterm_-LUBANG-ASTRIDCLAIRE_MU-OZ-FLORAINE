@@ -1,12 +1,13 @@
-# MIDTERMS IN ELECTIVES II
+# ELECTIVES II
 
 
 # Introduction: Overview of Linear Regression.
 # **TOPIC: Sales Data**
-# I. Explanation of the Topic
-You are working with a dataset that includes details of sales transactions. This dataset can be analyzed using Linear Regression techniques to uncover patterns in sales and predict future outcomes. This dataset is ideal for performing regression analysis, time-series analysis, and customer behavior analysis. The goal could be to predict sales based on variables like QUANTITYORDERED, PRICEEACH, DEALSIZE, and ORDERDATE. The SALES column is the target variable for predicting sales outcomes based on other factors.
+# I. OVERVIEW
+This dataset appears to capture sales transactions, including information about orders, customers, and sales revenue. Each row represents a specific order line item, with details such as the order number, quantity ordered, price per item, and the total sales value for that line. In addition to transactional data, the dataset includes metadata like order date, order status, and various categorical fields such as the type of product, the deal size, and customer information. Some key columns include SALES, which reflects the total sales revenue from each transaction, and QUANTITYORDERED and PRICEEACH, which provide insights into product pricing and order volume.
 
-# Key characteristics and variables of the dataset include:
+**II** DATASET DESCRIPTION****
+- Key characteristics and variables of the dataset include:
 - **ORDERNUMBER**: Unique identifier for each order.
 - **QUANTITYORDERED**: Number of units ordered.
 - **PRICEEACH**: Price per unit.
