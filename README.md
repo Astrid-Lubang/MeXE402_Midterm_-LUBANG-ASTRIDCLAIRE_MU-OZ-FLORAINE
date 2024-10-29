@@ -16,21 +16,23 @@
 <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The tables shows the key characteristics and variables of the dataset.
 <br>
-
+ 
 <div align="center">
 
  | **VARIABLE** | **DESCRIPTIONS** |
  |:-|:-|
  |   **Order Number**   |   Unique identifier for each order.  |
  |   **Quantity Ordered**   |   Number of units ordered. |
- | **Price Each** | Price per unit. |
- | **Sales** | Total sales amount (dependent variable for potential analysis).j |
- | **Order Date** | Date when the order was placed.. |
- | **Order Number** | Number of units ordered. |
- | **STATUS** | Shipping status of the order. |
- | **QTR_ID, MONTH_ID, YEAR_ID** | Identifiers for the quarter, month, and year of the order. |
- | **Country** | Country where the order was shipped. |
- | **Deal Size** | Size of the deal (Small, Medium, Large). |
+ |   **Price Each**   | Price per unit. |
+ |   **Sales**   | Total sales amount (dependent variable for potential analysis).j |
+ |   **Order Date**   | Date when the order was placed.. |
+ |   **Order Number**   | Number of units ordered. |
+ |   **STATUS**   | Shipping status of the order. |
+ |   **QTR_ID, MONTH_ID, YEAR_ID**   | Identifiers for the quarter, month, and year of the order. |
+ |   **Country**   | Country where the order was shipped. |
+ |   **Deal Size**   | Size of the deal (Small, Medium, Large). |
+
+<br>
 
 # III PROJECT OBJECTIVES
 - ### Chosen Dependent Variables
