@@ -1,6 +1,4 @@
 # ELECTIVES II
-<h1 align="center">LINEAR REGRESSION</h1>
-<br>
 <h1 align="center">TOPIC: SALES DATA</h1>
 <br>
 
