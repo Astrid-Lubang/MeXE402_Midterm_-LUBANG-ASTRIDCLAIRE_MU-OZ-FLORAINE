@@ -31,7 +31,10 @@
  |   **QTR_ID, MONTH_ID, YEAR_ID**   | Identifiers for the quarter, month, and year of the order. |
  |   **Country**   | Country where the order was shipped. |
  |   **Deal Size**   | Size of the deal (Small, Medium, Large). |
-<p align="center"> Variables used in dataset
+ 
+<p align="center"> 
+ 
+***Table 1:Variables used in dataset***
 </div>
 <br>
 
