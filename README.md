@@ -1,8 +1,9 @@
 # ELECTIVES II
 <h1 align="center">TOPIC: SALES DATA</h1>
 <br>
+
 # TABLE OF CONTENTS
-  *[I.Introduction](#i-introduction
+  *[I.Introduction](#i-introduction)
 
 # I.Introduction
 This dataset appears to capture sales transactions, including information about orders, customers, and sales revenue. Each row represents a specific order line item, with details such as the order number, quantity ordered, price per item, and the total sales value for that line. In addition to transactional data, the dataset includes metadata like order date, order status, and various categorical fields such as the type of product, the deal size, and customer information. Some key columns include SALES, which reflects the total sales revenue from each transaction, and QUANTITYORDERED and PRICEEACH, which provide insights into product pricing and order volume.
