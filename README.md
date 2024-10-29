@@ -25,7 +25,10 @@
 - **DEALSIZE**: Size of the deal (Small, Medium, Large).
 
 <div align="center">
- 
+
+ | **VARIABLE** | **DESCRIPTIONS** |
+ |:-|:-|
+ |**ORDER NUMBER** | Number of units ordered. |
 
 
 # III PROJECT OBJECTIVES
