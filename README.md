@@ -43,6 +43,9 @@ Following are the project objectives:
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To Analyze the coefficients obtained from the regression model to interpret their significance and impact on the independent variable  "SALES".
 
 <br>
+
+
+
 - ### Chosen Dependent Variables
 - **SALES** is an ideal dependent variable for Linear Regression as we aim to understand what factors drive the total sales amount.
 
