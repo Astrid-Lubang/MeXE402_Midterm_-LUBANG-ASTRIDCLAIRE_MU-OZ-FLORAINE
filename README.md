@@ -44,6 +44,8 @@ Following are the project objectives:
 <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To Analyze the coefficients obtained from the regression model to interpret their significance and impact on the independent variable  "SALES".
 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. To evaluate the model's predictive power using R-squared to determine how well the independent variables explain the fluctuations in "SALES".
+<br>
  
 # III. DOCUMENTATION
  
