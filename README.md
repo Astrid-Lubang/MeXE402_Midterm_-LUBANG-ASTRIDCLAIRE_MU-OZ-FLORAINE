@@ -56,9 +56,7 @@ Following are the project objectives:
 The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
 <br>
 
-<p align="justify"> 
- 
-**Part 1: DATA PROCESSING**
+<h1 align="justify">Part 1: Data Processing</h1>
  
  **1.1 Importing Datasets**
 <br>
