@@ -5,6 +5,7 @@
 # TABLE OF CONTENTS
   * [I. INTRODUCTION](#i-introduction)
   * [II. DATASET DESCRIPTION](#ii-datasetdescription)
+  * [III. PROJECT OBJECTIVES](#iii-projectobjectives)
     
 # I. INTRODUCTION
 <p align="justify"> 
@@ -31,7 +32,6 @@
  |   **QTR_ID, MONTH_ID, YEAR_ID**   | Identifiers for the quarter, month, and year of the order. |
  |   **Country**   | Country where the order was shipped. |
  |   **Deal Size**   | Size of the deal (Small, Medium, Large). |
-
 <br>
 
 # III PROJECT OBJECTIVES
