@@ -19,7 +19,9 @@
  
 <div align="center">
 
- | **VARIABLE** | **DESCRIPTIONS** |
+ |<div align="center">
+  **VARIABLE** | <div align="center">
+ **DESCRIPTIONS** |
  |:-|:-|
  |   **Order Number**   |   Unique identifier for each order.  |
  |   **Quantity Ordered**   |   Number of units ordered. |
