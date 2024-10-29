@@ -27,7 +27,7 @@
  |   **Sales**   | Total sales amount (dependent variable for potential analysis).j |
  |   **Order Date**   | Date when the order was placed.. |
  |   **Order Number**   | Number of units ordered. |
- |   **STATUS**   | Shipping status of the order. |
+ |   **STATUS**   | Shipping status of the order.4ree |
  |   **QTR_ID, MONTH_ID, YEAR_ID**   | Identifiers for the quarter, month, and year of the order. |
  |   **Country**   | Country where the order was shipped. |
  |   **Deal Size**   | Size of the deal (Small, Medium, Large). |
@@ -36,6 +36,12 @@
 <br>
 
 # III PROJECT OBJECTIVES
+
+<p align="justify"> 
+Following are the project objectives:
+1. To Analyze the coefficients obtained from the regression model to interpret their significance and impact on the independent variable  "SALES".
+
+<br>
 - ### Chosen Dependent Variables
 - **SALES** is an ideal dependent variable for Linear Regression as we aim to understand what factors drive the total sales amount.
 
