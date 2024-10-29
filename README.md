@@ -26,19 +26,6 @@
 
 <div align="center">
  
-| $\Variables$ | $\Description$ | 
-|     :---:     |     :---:     |     :---:         
-|     :---:     |     :---:     |     :---:          
-|     :---:     |     :---:     |     :---:         
-|     :---:     |     :---:     |     :---:        
-|     :---:     |     :---:     |     :---:         
-|     :---:     |     :---:     |     :---:        
-|     :---:     |     :---:     |     :---:         
-|     :---:     |     :---:     |     :---:        
-|     :---:     |     :---:     |     :---:        
-|  " $\Variables$ "ORDER NUMBER.  |   " $Description " Unique identifier for each order.
-</div>
-<br>
 
 
 # III PROJECT OBJECTIVES
