@@ -38,7 +38,8 @@
 # III PROJECT OBJECTIVES
 
 <p align="justify"> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Following are the project objectives:
+Following are the project objectives:
+ <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To Analyze the coefficients obtained from the regression model to interpret their significance and impact on the independent variable  "SALES".
 
 <br>
