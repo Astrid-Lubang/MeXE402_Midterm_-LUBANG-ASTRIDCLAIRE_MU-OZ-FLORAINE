@@ -50,6 +50,14 @@ Following are the project objectives:
 # III. DOCUMENTATION
    + **METHODOLOGY**
 <p align="center">
+ 
+***LINEAR REGRESSION: SALES DATA***
+</p>
+
+The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
+<br>
+ 
+<p align="center">
 <img src= "https://github.com/user-attachments/assets/18737a04-f3a4-4fda-9f9c-daf5fac240d2" style="height: 200px;">
 </p>
 </div>
@@ -57,11 +65,7 @@ Following are the project objectives:
 ## METHODOLOGY
 <p align="center">
  
-***LINEAR REGRESSION: SALES DATA***
-</p>
-The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
 
-### IMPORTING DATASET
 
 
 
