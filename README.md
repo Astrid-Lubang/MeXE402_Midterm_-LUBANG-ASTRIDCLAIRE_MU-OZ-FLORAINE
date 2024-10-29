@@ -49,7 +49,9 @@ Following are the project objectives:
  
 # III. DOCUMENTATION
    + **METHODOLOGY**
-
+     
+     <p align="center">
+<img src=
 ## METHODOLOGY
 ### IMPORTING DATASET
 
