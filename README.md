@@ -6,6 +6,7 @@
   * [I. INTRODUCTION](#i-introduction)
   * [II. DATASET DESCRIPTION](#ii-datasetdescription)
   * [III. PROJECT OBJECTIVES](#iii-projectobjectives)
+  * [IV. DOCUMENTATION](#iv-documentation)
     
 # I. INTRODUCTION
 <p align="justify"> 
@@ -14,8 +15,7 @@
 
 # II.DATASET DESCRIPTION
 <p align="justify"> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The tables shows the key characteristics and variables of the dataset.
-<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This table shows the  outlines of the variable and its characteristics contained in the sales dataset. Each variables serve a significant function in analyzing the sales performance.
  
 <div align="center">
 
@@ -31,25 +31,19 @@
  |   **QTR_ID, MONTH_ID, YEAR_ID**   | Identifiers for the quarter, month, and year of the order. |
  |   **Country**   | Country where the order was shipped. |
  |   **Deal Size**   | Size of the deal (Small, Medium, Large). |
- 
+<p align="center"> Variables used in dataset
 </div>
 <br>
 
-# III PROJECT OBJECTIVES
-
+# III. PROJECT OBJECTIVES
 <p align="justify"> 
 Following are the project objectives:
- <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To Analyze the coefficients obtained from the regression model to interpret their significance and impact on the independent variable  "SALES".
-
 <br>
-
-
-
-- ### Chosen Dependent Variables
-- **SALES** is an ideal dependent variable for Linear Regression as we aim to understand what factors drive the total sales amount.
-
-# DOCUMENTATION
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To Analyze the coefficients obtained from the regression model to interpret their significance and impact on the independent variable  "SALES".
+<br>
+ 
+# III. DOCUMENTATION
+ 
 ## METHODOLOGY
 ### IMPORTING DATASET
 
