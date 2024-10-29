@@ -50,10 +50,8 @@ Following are the project objectives:
 # III. DOCUMENTATION
    + **METHODOLOGY**
      
-<p align="center">
- 
-**LINEAR REGRESSION: SALES DATA**
-</p>
+ <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
+<br>
 
 The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
 <br>
