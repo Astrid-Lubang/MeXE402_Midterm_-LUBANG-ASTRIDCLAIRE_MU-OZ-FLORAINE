@@ -51,7 +51,7 @@ Following are the project objectives:
    + **METHODOLOGY**
      
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/18737a04-f3a4-4fda-9f9c-daf5fac240d2" style="height: 300px;">
+<img src= "https://github.com/user-attachments/assets/18737a04-f3a4-4fda-9f9c-daf5fac240d2" style="height: 200px;">
 </p>
 </div>
 
