@@ -21,8 +21,8 @@
 
  | **VARIABLE** | **DESCRIPTIONS** |
  |:-|:-|
- | **Order Number** | Unique identifier for each order.  |
- | **Quantity Ordered** | Number of units ordered. |
+ |   **Order Number**   |   Unique identifier for each order.  |
+ |   **Quantity Ordered**   |   Number of units ordered. |
  | **Price Each** | Price per unit. |
  | **Sales** | Total sales amount (dependent variable for potential analysis).j |
  | **Order Date** | Date when the order was placed.. |
