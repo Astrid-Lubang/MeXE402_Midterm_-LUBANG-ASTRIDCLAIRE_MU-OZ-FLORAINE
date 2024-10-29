@@ -60,11 +60,12 @@ The following steps outline the methodology used for the analysis of the "Sales 
  
 **Part 1: DATA PROCESSING**
  
- **1.1 Importing Datasets**
+ **1.1 Importing Datasets**n
  <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/18737a04-f3a4-4fda-9f9c-daf5fac240d2" style="height: 200px;">
-</p>
+
+***Figure 1:Importing Datasets***
 
 
 ## METHODOLOGY
