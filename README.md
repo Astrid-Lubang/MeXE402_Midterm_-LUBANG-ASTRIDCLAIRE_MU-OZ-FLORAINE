@@ -50,8 +50,11 @@ Following are the project objectives:
 # III. DOCUMENTATION
    + **METHODOLOGY**
      
-     <p align="center">
-<img src=
+<p align="center">
+<img src= "![image](https://github.com/user-attachments/assets/18737a04-f3a4-4fda-9f9c-daf5fac240d2)" style="height: 300px;">
+</p>
+</div>
+
 ## METHODOLOGY
 ### IMPORTING DATASET
 
