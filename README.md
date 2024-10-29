@@ -13,16 +13,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, the goal is to provide data insights to support business decision making and improve sales strategies. 
 
 # II.DATASET DESCRIPTION
-- Key characteristics and variables of the dataset include:
-- **ORDERNUMBER**: Unique identifier for each order.
-- **QUANTITYORDERED**: Number of units ordered.
-- **PRICEEACH**: Price per unit.
-- **SALES**: Total sales amount (dependent variable for potential analysis).
-- **ORDERDATE**: Date when the order was placed.
-- **STATUS**: Shipping status of the order.
-- **QTR_ID, MONTH_ID, YEAR_ID**: Identifiers for the quarter, month, and year of the order.
-- **COUNTRY**: Country where the order was shipped.
-- **DEALSIZE**: Size of the deal (Small, Medium, Large).
+<p align="justify"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The tables shows the key characteristics and variables of the dataset.
+<br>
 
 <div align="center">
 
