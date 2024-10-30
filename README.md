@@ -3,13 +3,13 @@
   * [II. DATASET DESCRIPTION](#ii-datasetdescription)
   * [III. PROJECT OBJECTIVES](#iii-projectobjectives)
   * [IV. DOCUMENTATION](#iv-documentation) <br>
-      + [METHODOLOGY](methodology)astrid 
+      + [METHODOLOGY](methodology)
     
 # I. INTRODUCTION
 
 + ***SALES DATA*** <br>
  <p align="justify"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This dataset appears to capture sales transactions, including information about orders, customers, and sales revenue. Each row represents a specific order line item, with details such as the order number, quantity ordered, price per item, and the total sales value for that line. In addition to transactional data, the dataset includes metadata like order date, order status, and various categorical fields such as the type of product, the deal size, and customer information. Some key columns include SALES, which reflects the total sales revenue from each transaction, and QUANTITY ORDERED and PRICE EACH, which provide insights into product pricing and order volume.The goal is to provide data insights to support business decision making and improve sales strategies. 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This dataset appears to capture sales transactions, including information about orders, customers, and sales revenue. Each row represents a specific order line item, with details such as the order number, quantity ordered, price per item, and the total sales value for that line. In addition to transactional data, the dataset includes metadata like order date, order status, and various ASTRID categorical fields such as the type of product, the deal size, and customer information. Some key columns include SALES, which reflects the total sales revenue from each transaction, and QUANTITY ORDERED and PRICE EACH, which provide insights into product pricing and order volume.The goal is to provide data insights to support business decision making and improve sales strategies. 
  <br>
 
  <p align="justify"> 
