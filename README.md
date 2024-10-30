@@ -108,13 +108,28 @@ The following steps outline the methodology used for the analysis of the "Sales 
 
 <h1 align="justify">Part 1: Data Processing</h1>
  
- **1.1 Importing Datasets**
-<br>
+ **1.1 Importing Datasets** 
+ <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/39e5d729-37f2-4cb1-9f45-67807fe53130"height: 120px;"> 
-<img src= "https://github.com/user-attachments/assets/6c020d51-4c15-453f-a44f-b64166210dda"style="height: 300px;"> 
+<img src= "https://github.com/user-attachments/assets/39e5d729-37f2-4cb1-9f45-67807fe53130" style= "height: 127px;"> 
+<img src= "https://github.com/user-attachments/assets/6c020d51-4c15-453f-a44f-b64166210dda" style="height: 300px;"> 
 <img src= "https://github.com/user-attachments/assets/38311bef-64e9-4ae8-b568-ffc33cf9bc68" style="height: 268px;">
+</p>
  
+  **1.2 HANDLE MISSING VALUES**
+  <br>
+ <p align="justify"> 
+ In this part the process involves indentifying and addressing any gaps in dataset. This may include the checking missing values, dropping the missing values and check for outliers.The figures attached are the step by step process. <br>
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Checking Missing Values** <br>
+ <p align="center">
+ <img src= "https://github.com/user-attachments/assets/0f1677dc-f317-4dff-b1c3-8dcf7df273ed" style= "height: 325px;"> <br>
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Dropping Missing Values** <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/b07bc3cc-a12d-4b98-8fad-27fad6e602f5" style= "height: 325px;"> 
+ 
+  
 <h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
 
 
