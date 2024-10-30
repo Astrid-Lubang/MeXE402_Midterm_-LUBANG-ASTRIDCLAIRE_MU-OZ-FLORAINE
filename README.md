@@ -101,14 +101,12 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
    + **METHODOLOGY**
      
  <h1 align="justify">LINEAR REGRESSION: SALES DATA</h1>
-<br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
 <br>
 
 <h1 align="justify">Part 1: Data Processing</h1>
  
- **1.1 Importing Datasets** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.1 Importing Datasets** 
  <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/39e5d729-37f2-4cb1-9f45-67807fe53130" style= "height: 127px;"> 
@@ -116,7 +114,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <img src= "https://github.com/user-attachments/assets/38311bef-64e9-4ae8-b568-ffc33cf9bc68" style="height: 268px;">
 </p>
  
-  **1.2 HANDLE MISSING VALUES**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **1.2 HANDLE MISSING VALUES**
   <br>
  <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the process involves indentifying and addressing any gaps in dataset. This may include the checking missing values and dropping the missing values.The figures attached are the step by step process. <br>
@@ -129,10 +127,10 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/b07bc3cc-a12d-4b98-8fad-27fad6e602f5" style= "height: 300px;"> 
   
- **1.3 CHECK FOR OUTLIERS**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.3 CHECK FOR OUTLIERS**
   <br>
  <p align="justify"> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate how these outliers might affect analysis. In sales data, outliers may represent data errors. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate how these outliers might affect analysis. In sales data, outliers may represent data errors. <br>
   
  <p align="center">
  <img src= "https://github.com/user-attachments/assets/9f4852fe-962b-4459-a05f-04e0b177a5b2" style= "height: 100px;">
@@ -145,8 +143,8 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  <img src= "https://github.com/user-attachments/assets/b41f675b-f238-45f4-bffd-0d5c17ab0bc7" style= "height: 335px;"> <br>
  <img src= "https://github.com/user-attachments/assets/09686667-e6d5-47c1-9f27-dd86e120f14b" style= "height: 305px;"> <br>
  
-**INDEPENDENT VARIABLE** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the independent variable in the sales data is "SALES"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1 INDEPENDENT VARIABLE** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the independent variable in the sales data is "SALES"<br>
 
 <p align="center">
  <img src= "https://github.com/user-attachments/assets/3f5ebf8c-9d5e-4155-8406-2af05d87158a" style= "height: 190px;"> <br>
