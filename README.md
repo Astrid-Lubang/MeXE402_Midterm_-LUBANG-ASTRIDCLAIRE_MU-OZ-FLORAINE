@@ -2,7 +2,8 @@
   * [I. INTRODUCTION](#i-introduction)
   * [II. DATASET DESCRIPTION](#ii-datasetdescription)
   * [III. PROJECT OBJECTIVES](#iii-projectobjectives)
-  * [IV. DOCUMENTATION](#iv-documentation)
+  * [IV. DOCUMENTATION](#iv-documentation) <br>
+      + [METHODOLOGY](methodology)
     
 # I. INTRODUCTION
 
@@ -98,9 +99,9 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. To provide diagnostic insights into breast cancer cases by analyzing feature contributions and model outcomes.<br>
  
 # IV. DOCUMENTATION
-   + **METHODOLOGY**
+ <h1 align="justify">METHODOLOGY</h1>
      
- <h1 align="justify">LINEAR REGRESSION: SALES DATA</h1>
+ <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
 <br>
 
@@ -151,6 +152,8 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  
 <h1 align="justify">Part 3: CREATING TRAINING SET AND THE TEST SET</h1>
 <h1 align="justify">Part 4: EVALUATING THE MODEL</h1>
+
+<h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
  
  
 
