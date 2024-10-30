@@ -154,7 +154,15 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <h1 align="justify">Part 4: EVALUATING THE MODEL</h1>
 
 <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
+
+<h1 align="justify">Part 1: Data Processing</h1>
+<p align="center">
  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.1 IMPORTING THE DATASET** <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/6d1a4bb1-75c1-4c13-81f1-6f99142bd154" style= "height: 139px;"> <br>
+<img src= "https://github.com/user-attachments/assets/33541857-1394-4831-b906-e57aa9b2f0a6" style= "height: 300px;"> <br>
+<img src= "https://github.com/user-attachments/assets/6d1a4bb1-75c1-4c13-81f1-6f99142bd154" style= "height: 139px;"> <br>
  
 
 
