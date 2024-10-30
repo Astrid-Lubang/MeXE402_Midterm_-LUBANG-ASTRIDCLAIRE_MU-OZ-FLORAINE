@@ -132,12 +132,18 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  **1.3 CHECK FOR OUTLIERS**
   <br>
  <p align="justify"> 
- + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate how these outliers might affect analysis. In sales data, outliers may represent data errors. <br>
-
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate how these outliers might affect analysis. In sales data, outliers may represent data errors. <br>
+  
  <p align="center">
  <img src= "https://github.com/user-attachments/assets/9f4852fe-962b-4459-a05f-04e0b177a5b2" style= "height: 100px;">
   
 <h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the figure shows the verifying column names to ensure correct target  variable. <br>
+
+<p align="center">
+ <img src= "https://github.com/user-attachments/assets/f689442d-b6f3-4eab-9824-fa08f6f7d784" style= "height: 350px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/b41f675b-f238-45f4-bffd-0d5c17ab0bc7" style= "height: 335px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/09686667-e6d5-47c1-9f27-dd86e120f14b" style= "height: 305px;"> <br>
 
 
 
