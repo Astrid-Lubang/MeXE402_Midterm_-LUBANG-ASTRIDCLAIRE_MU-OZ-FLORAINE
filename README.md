@@ -48,7 +48,7 @@
 <br>
 
 <p align="justify"> 
- 
+
  + ***BREAST CANCER WISCONSIN*** <br>
  <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This table shows the  outlines of the variable and its characteristics contained in the breast cancer wisconsin dataset. Each variable serves a significant function in analyzing the tumor characteristics and aiding in the diagnosis classification.<br>
@@ -78,16 +78,25 @@
 
 # III. PROJECT OBJECTIVES
 <p align="justify"> 
+
+ + ***Sales Data*** <br>
 Following are the project objectives:
 <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To Analyze the coefficients obtained from the regression model to interpret their significance and impact on the independent variable sales.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Clean and prepare the dataset.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. To evaluate the model's predictive power using R-squared to determine how well the independent variables explain the fluctuations in sales.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Investigate key sales metrics and patterns to understand underlying trends.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Identify and select influential features that may affect sales performance.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.: Apply linear regression to predict sales outcomes based on various features.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.Assess the model’s accuracy and reliability in predicting sales by examining performance metrics.
 <br>
 
 <p align="justify"> 
-Following are the objectives for Breast Cancer Wisconsin dataset:
-<br>
+ 
+ + ***BREAST CANCER WISCONSIN*** <br>
+Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.To clean, prepare and structure the dataset effectively for analysis
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.To examine and select the relevant features that impact tumor classification.
