@@ -43,9 +43,38 @@
  
 <p align="center"> 
  
-***Table 1:Variables used in dataset***
+***Table 1:Variables used in dataset in Sales Data***
 </div>
 <br>
+
+<p align="justify"> 
+ 
+ + ***BREAST CANCER WISCONSIN*** <br>
+ <p align="justify"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This table shows the  outlines of the variable and its characteristics contained in the breast cancer wisconsin dataset. Each variable serves a significant function in analyzing the tumor characteristics and aiding in the diagnosis classification.<br>
+  
+ <div align="center">
+
+ |  **VARIABLE** |  **DESCRIPTIONS** |
+ |:-|:-|
+ |   **ID**   |   Unique identifier for each observation.  |
+ |   **Diagnosed**   |   Diagnosis outcome ('M' for malignant, 'B' for benign). |
+ |   **Raduis_Mean**   | Mean radius of cells. |
+ |   **Texture_Mean**   | Mean texture (variance in grayscale values). |
+ |   **Perimeter_Mean**   | Mean perimeter of cells. |
+ |   **Area_Mean**   | Mean area of cells. |
+ |   **Smoothness_mean**   | Mean smoothness (local variation in radius) |
+ |   **Compactness_Mean**   | Mean compactness (perimeter² / area - 1.0). |
+ |   **Concavity_Mean**   | Mean concavity (severity of concave portions). |
+ |   **Concave points_Mean**   |   Mean number of concave points on cells.. |
+ |   **Fractal_Dimension_Mean**   |  Mean fractal dimension (coastline approximation). |
+ 
+<p align="center"> 
+ 
+***Table 2:Variables used in Breast Cancer Wisoncin dataset***
+</div>
+<br>
+ 
 
 # III. PROJECT OBJECTIVES
 <p align="justify"> 
