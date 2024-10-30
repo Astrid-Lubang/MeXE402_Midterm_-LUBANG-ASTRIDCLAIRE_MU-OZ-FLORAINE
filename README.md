@@ -1,7 +1,3 @@
-# ELECTIVES II
-<h1 align="center">TOPIC: SALES DATA</h1>
-<br>
-
 # TABLE OF CONTENTS
   * [I. INTRODUCTION](#i-introduction)
   * [II. DATASET DESCRIPTION](#ii-datasetdescription)
@@ -9,12 +5,25 @@
   * [IV. DOCUMENTATION](#iv-documentation)
     
 # I. INTRODUCTION
-<p align="justify"> 
+
++ ***SALES DATA*** <br>
+ <p align="justify"> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This dataset appears to capture sales transactions, including information about orders, customers, and sales revenue. Each row represents a specific order line item, with details such as the order number, quantity ordered, price per item, and the total sales value for that line. In addition to transactional data, the dataset includes metadata like order date, order status, and various categorical fields such as the type of product, the deal size, and customer information. Some key columns include SALES, which reflects the total sales revenue from each transaction, and QUANTITY ORDERED and PRICE EACH, which provide insights into product pricing and order volume.The goal is to provide data insights to support business decision making and improve sales strategies. 
  <br>
 
+ <p align="justify"> 
+
+ + ***BREAST CANCER WISCONSIN*** <br>
+
+  <p align="justify"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The "Breast Cancer Wisconsin" notebook provides a detailed look at using logistic regression to detect breast cancer. It starts with thorough data preparation, including importing key libraries (Pandas, Scikit-Learn) for handling and modeling data. The dataset, called LOGISTIC.csv, is cleaned by removing unnecessary columns and addressing missing values to keep the data accurate. The target variable diagnosis is also converted to numbers for easier processing. After cleaning, the notebook divides the data into input features and target labels to set up for logistic regression modeling, following best practices. This step-by-step approach guides readers through each part, highlighting accurate breast cancer prediction and demonstrating how predictive modeling can support healthcare diagnostics. <br>
+ 
+
 # II.DATASET DESCRIPTION
 <p align="justify"> 
+ 
+ + ***SALES DATA*** <br>
+ <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This table shows the  outlines of the variable and its characteristics contained in the sales dataset. Each variables serve a significant function in analyzing the sales performance.
  
 <div align="center">
