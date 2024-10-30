@@ -3,7 +3,7 @@
   * [II. DATASET DESCRIPTION](#ii-datasetdescription)
   * [III. PROJECT OBJECTIVES](#iii-projectobjectives)
   * [IV. DOCUMENTATION](#iv-documentation) <br>
-      + [METHODOLOGY](methodology)
+      + [ASTRID METHODOLOGY](methodology)
     
 # I. INTRODUCTION
 
