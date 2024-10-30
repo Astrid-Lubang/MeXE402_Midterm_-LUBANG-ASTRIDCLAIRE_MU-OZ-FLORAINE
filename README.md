@@ -71,7 +71,7 @@
  
 <p align="center"> 
  
-***Table 2:Variables used in Breast Cancer Wisoncin dataset***
+***Table 2:Variables used in Breast Cancer Wisconsin dataset***
 </div>
 <br>
  
@@ -83,6 +83,20 @@ Following are the project objectives:
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To Analyze the coefficients obtained from the regression model to interpret their significance and impact on the independent variable sales.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2. To evaluate the model's predictive power using R-squared to determine how well the independent variables explain the fluctuations in sales.
+<br>
+
+<p align="justify"> 
+Following are the objectives for Breast Cancer Wisconsin dataset:
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.To clean, prepare and structure the dataset effectively for analysis
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.To examine and select the relevant features that impact tumor classification.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.To apply logistic regression for classifying tumors as malignant or benign.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. To assess the model’s performance using accuracy, precision, and other relevant metrics.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. To provide diagnostic insights into breast cancer cases by analyzing feature contributions and model outcomes.
 <br>
  
 # III. DOCUMENTATION
