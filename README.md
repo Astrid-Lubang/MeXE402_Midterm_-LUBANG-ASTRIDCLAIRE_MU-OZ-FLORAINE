@@ -176,7 +176,8 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/2b572966-ff81-4d9a-a298-bcc3f5c85e62" style= "height: 298px;"> <br>
 <img src= "https://github.com/user-attachments/assets/66eba55b-7332-4014-a67d-b3f3990280b6" style= "height: 290px;"> <br>
- 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **PART 2: GETTING THE INPUTS AND OUTPUTS** <br>
 
 
 
