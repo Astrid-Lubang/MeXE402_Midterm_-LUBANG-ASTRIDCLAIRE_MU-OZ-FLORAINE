@@ -97,7 +97,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. To assess the model’s performance using accuracy, precision, and other relevant metrics.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. To provide diagnostic insights into breast cancer cases by analyzing feature contributions and model outcomes.<br>
  
-# III. DOCUMENTATION
+# IV. DOCUMENTATION
    + **METHODOLOGY**
      
  <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
@@ -118,10 +118,6 @@ The following steps outline the methodology used for the analysis of the "Sales 
 ***Figure 1 Importing Datasets***
  <br>
 
-
-## METHODOLOGY
-<p align="center">
- 
 
 
 
