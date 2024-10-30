@@ -3,7 +3,7 @@
   * [II. DATASET DESCRIPTION](#ii-datasetdescription)
   * [III. PROJECT OBJECTIVES](#iii-projectobjectives)
   * [IV. DOCUMENTATION](#iv-documentation) <br>
-      + [PAANO KAYAAAAA? METHODOLOGY](methodology)
+      + [METHODOLOGY](methodology)
     
 # I. INTRODUCTION
 
