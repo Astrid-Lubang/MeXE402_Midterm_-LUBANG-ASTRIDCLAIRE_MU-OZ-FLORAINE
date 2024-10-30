@@ -156,7 +156,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
  
  
-DI KO KNOWSSS
+
 
 
 
