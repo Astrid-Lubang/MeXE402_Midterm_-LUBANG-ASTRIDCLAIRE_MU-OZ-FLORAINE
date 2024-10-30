@@ -100,7 +100,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 # IV. DOCUMENTATION
    + **METHODOLOGY**
      
- <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
+ <h1 align="justify">LINEAR REGRESSION: SALES DATA</h1>
 <br>
 
 The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
@@ -111,12 +111,11 @@ The following steps outline the methodology used for the analysis of the "Sales 
  **1.1 Importing Datasets**
 <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/18737a04-f3a4-4fda-9f9c-daf5fac240d2" style="height: 200px;">
+<img src= "https://github.com/user-attachments/assets/6c020d51-4c15-453f-a44f-b64166210dda"style="height: 200;"> 
+<img src= "https://github.com/user-attachments/assets/38311bef-64e9-4ae8-b568-ffc33cf9bc68" style="height: 300px;">
+ 
+<h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
 
- <p align="center">
-  
-***Figure 1 Importing Datasets***
- <br>
 
 
 
