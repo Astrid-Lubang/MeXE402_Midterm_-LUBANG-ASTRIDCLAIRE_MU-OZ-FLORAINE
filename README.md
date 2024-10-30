@@ -150,6 +150,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  <img src= "https://github.com/user-attachments/assets/3f5ebf8c-9d5e-4155-8406-2af05d87158a" style= "height: 190px;"> <br>
  
 <h1 align="justify">Part 3: CREATING TRAINING SET AND THE TEST SET</h1>
+<h1 align="justify">Part 4: EVALUATING THE MODEL</h1>
  
  
 
