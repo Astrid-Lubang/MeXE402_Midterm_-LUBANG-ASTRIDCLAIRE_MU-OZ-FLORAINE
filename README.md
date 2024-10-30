@@ -103,7 +103,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  <h1 align="justify">LINEAR REGRESSION: SALES DATA</h1>
 <br>
 
-The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following steps outline the methodology used for the analysis of the "Sales Data". Each step is designed to understand the dataset:
 <br>
 
 <h1 align="justify">Part 1: Data Processing</h1>
@@ -119,7 +119,7 @@ The following steps outline the methodology used for the analysis of the "Sales 
   **1.2 HANDLE MISSING VALUES**
   <br>
  <p align="justify"> 
- In this part the process involves indentifying and addressing any gaps in dataset. This may include the checking missing values, dropping the missing values and check for outliers.The figures attached are the step by step process. <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the process involves indentifying and addressing any gaps in dataset. This may include the checking missing values and dropping the missing values.The figures attached are the step by step process. <br>
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Checking Missing Values** <br>
  <p align="center">
@@ -127,10 +127,18 @@ The following steps outline the methodology used for the analysis of the "Sales 
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Dropping Missing Values** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/b07bc3cc-a12d-4b98-8fad-27fad6e602f5" style= "height: 325px;"> 
- 
+<img src= "https://github.com/user-attachments/assets/b07bc3cc-a12d-4b98-8fad-27fad6e602f5" style= "height: 300px;"> 
+  
+ **1.3 CHECK FOR OUTLIERS**
+  <br>
+ <p align="justify"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate how these outliers might affect analysis. In sales data, outliers may represent data errors. <br>
+
+ <p align="center">
+ <img src= "https://github.com/user-attachments/assets/9f4852fe-962b-4459-a05f-04e0b177a5b2" style= "height: 100px;">
   
 <h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
+
 
 
 
