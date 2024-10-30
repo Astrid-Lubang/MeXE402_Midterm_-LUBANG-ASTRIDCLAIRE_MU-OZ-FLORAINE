@@ -111,8 +111,9 @@ The following steps outline the methodology used for the analysis of the "Sales 
  **1.1 Importing Datasets**
 <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/6c020d51-4c15-453f-a44f-b64166210dda"style="height: 200;"> 
-<img src= "https://github.com/user-attachments/assets/38311bef-64e9-4ae8-b568-ffc33cf9bc68" style="height: 300px;">
+<img src= "https://github.com/user-attachments/assets/39e5d729-37f2-4cb1-9f45-67807fe53130"height: 120px;"> 
+<img src= "https://github.com/user-attachments/assets/6c020d51-4c15-453f-a44f-b64166210dda"style="height: 300px;"> 
+<img src= "https://github.com/user-attachments/assets/38311bef-64e9-4ae8-b568-ffc33cf9bc68" style="height: 268px;">
  
 <h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
 
