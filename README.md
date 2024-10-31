@@ -141,8 +141,10 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the figure shows the verifying column names to ensure correct target  variable. <br>
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1 CONVERTING 'STATUS' INTO NUMERICAL DATA  FOR DEPENDENT VARIABLE SELECTION** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When estimating the likelihood that an order will be completed or the elements that lead to fulfillment delays, it is best to use 'STATUS' as a dependent variable. Otherwise, concentrating on a regression technique would be more suitable if your objective is to forecast numerical results such as 'SALES'. <br>
+
 <p align="center">
  <img src= "https://github.com/user-attachments/assets/d8dbdd4e-6076-47b6-a34f-b24d06c6a8d4" style= "height: 100px;"> <br>
  
@@ -150,7 +152,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the independent variable in the sales data is "SALES"<br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/932fd4de-c040-434b-a4ad-09ac3cb8ddf6" style= "height: 298px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/932fd4de-c040-434b-a4ad-09ac3cb8ddf6" style= "height: 108px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.3 DEPENDENT VARIABLE** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the dependent variable in the sales data are "'QUANTITYORDERED', 'PRICEEACH', 'MSRP','STATUS'"<br>
@@ -161,11 +163,74 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <h1 align="justify">Part 3: CREATING TRAINING SET AND THE TEST SET</h1>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/9f64c35d-2b6e-4811-a37c-3dd8121d3696" style= "height: 2980px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/9f64c35d-2b6e-4811-a37c-3dd8121d3696" style= "height: 200px;"> <br>
+ 
+ + X_train
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/c5a0cd67-efbf-4281-b01e-f893d2e25b52" style= "height: 200px;"> <br>
+
+ + X_test
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/f784f99b-2dac-4ce2-9439-70b89ec68078" style= "height: 200px;"> <br>
+
+ + y_train
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/3641533e-f298-475b-8cbf-b30acc6d7cc2" style= "height: 200px;"> <br>
+
+ + y_test
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/40ea9968-a0d3-435a-894c-0eb2147fa218" style= "height: 200px;"> <br>
+
+<h1 align="justify">Part 4: BUILDING AND TRAINING THE MODEL</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Converting historical data into actionable insights through model training can lead to better, more strategic decisions and better results. <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.1 BUILDING THE MODEL** <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/49494629-4530-449c-8fcb-b4bdc8469047" style= "height: 200px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 TRAINING THE MODEL** <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/0acd39d8-cd44-4006-87a8-28555c7ab846" style= "height: 200px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 INFERENCE** <br>
++ y_pred
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 200px;"> <br>
++ y_pred
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/7e242cca-4fb5-4e5a-a87b-5dbe8b0862fe" style= "height: 200px;"> <br>
+
 
  
+<h1 align="justify">Part 5: EVALUATING THE MODEL</h1>
 
-<h1 align="justify">Part 4: EVALUATING THE MODEL</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.1 R^2** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Indicates the proportion of variance in the dependent variable explained by the independent variables. R² ranges from 0 to 1, where values closer to 1 represent a better fit. <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/5e79d89f-8583-47df-ba33-8686e059cc0e" style= "height: 200px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.2 ADJUSTED R^2** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Adjusted R^2 is a modified version of R-squared that accounts for the number of predictors in a regression model. It’s useful because it penalizes the addition of irrelevant variables, helping to determine if adding more features improves the model's performance. <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/7f67f853-39a9-4df2-ba0c-25094e9bf842" style= "height: 200px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.3 MEAN SQUARED ERROR** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Measures the average of the squared differences between predicted and actual values.<br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/d9f91806-fca4-4477-b500-47b9709d6f8d" style= "height: 200px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.4 GETTING THE COEFFICIENTS** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interpret coefficients to understand the significance of each variable in predicting sales. <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/c2519f45-9ccb-4069-a7c5-9402dadddb08" style= "height: 200px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.5 VISUALIZATION** <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/de417078-f00e-4c51-9e6a-44d239dd919e" style= "height: 200px;"> <br>
+
+
+
+
 
 <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
 
