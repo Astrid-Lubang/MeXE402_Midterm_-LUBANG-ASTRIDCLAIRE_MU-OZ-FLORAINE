@@ -3,8 +3,8 @@
   * [II. DATASET DESCRIPTION](#ii-datasetdescription)
   * [III. PROJECT OBJECTIVES](#iii-projectobjectives)
   * [IV. DOCUMENTATION](#iv-documentation) <br>
-      + [ METHODOLOGY](methodology)
-  *[V.SUMMARY AND FINDINGS](v.summaryandfindings)
+      + [ METHODOLOGY](methodology) <br>
+  * [V.SUMMARY AND FINDINGS](v.summaryandfindings)
   * [VI.REFERENCE](#vi-reference)
     
 # I. INTRODUCTION
@@ -112,7 +112,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.1 Importing Datasets** 
  <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/a42ea2b9-eca7-458d-a94a-a582dd4aad67"style=  "height: 300px;"> <br>
+<img src= "https://github.com/user-attachments/assets/a42ea2b9-eca7-458d-a94a-a582dd4aad67"style=  "height: 150px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **1.2 HANDLE MISSING VALUES**
   <br>
@@ -120,11 +120,14 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the process involves indentifying and addressing any gaps in dataset. This may include the checking missing values and dropping the missing values.The figures attached are the step by step process. <br>
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Checking Missing Values** <br>
+ 
  <p align="center">
-<img src= "https://github.com/user-attachments/assets/175e96bf-5732-4483-a604-1efe2909fc0e"style=  "height: 80px;"> <br>
- <p align="justify"> 
-+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The "ADDRESSLINE2," "STATE," "POSTALCODE," and "TERITORY" categories have multiple missing variables. <br>
-<img src= "https://github.com/user-attachments/assets/7991f598-6b52-4582-95d5-b0572d012a43"style=  "height: 400px;"> <br>
+<img src= "https://github.com/user-attachments/assets/06c89270-544f-4b06-9b1b-e6c9d516bcf9"style=  "height: 150px;"> <br>
+  
++ The "ADDRESSLINE2," "STATE," "POSTALCODE," and "TERITORY" categories have multiple missing variables. <br>
+  
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/7991f598-6b52-4582-95d5-b0572d012a43"style=  "height: 150px;"> <br>
 
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Dropping Missing Values** <br>
@@ -277,9 +280,36 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **INFERENCE**
 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The variable y_pred is the output from this model, representing predictions on the test dataset.Y_pred is to indicate whether each test sample is classified as benign (0) or malignant (1). <br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f0d9cd18-9f0c-4c2a-a0f9-77902dca24e4"style= "height: 100px;"> <br>
  
- 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The y_test contains the true diagnostic classifications for each sample in the test set, identifying whether each case of breast cancer is benign (0) or malignant (1). <br>
+
+ <p align="center">
+<img src= "https://github.com/user-attachments/assets/94e2a78b-b338-4ae3-a432-2c83f984ceae" style= "height: 150px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CONFUSION MATRIX** <br> 
+
+<p align="justify">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The figure attached represents the model's performance between two classes: benign (0) and malignant (1).
+
+ + **TRUE NEGATIVE (TN)** - label 0, predicted 0 the result value is 70. This indicates that the model correctly classified 70 benign cases as benign.
+ + **FALSE POSITIVE (FP)** - label 0, predicted 1 the result value is 1.This represents a single benign case that was incorrectly classified as malignantThis is known as a Type I error.
+ + **FALSE NEGATIVE (FN)** - label 1, predicted 0 the result value is 0 the result value is 2.ndicating that 2 malignant cases were incorrectly classified as benign. This is known as a Type II error.
+ + **TRUE POSITIVE (TP)** - label 1, predicted 1 the result value is 41 means that the model correctly classified 41 malignant cases as malignant.
+
+  <p align="center">
+<img src= "https://github.com/user-attachments/assets/6a8f65f3-599c-479a-8061-8420826f34d7"style= "height: 300px;"> <br>
+
 # VI. REFERENCES
+
+ + SALES DATA LINK: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data 
+ + BREAST CANCER WISCONSIN: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data 
 
 
 
