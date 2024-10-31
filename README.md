@@ -195,10 +195,10 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 INFERENCE** <br>
 + y_pred
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 150px;"> <br>
 + y_pred
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7e242cca-4fb5-4e5a-a87b-5dbe8b0862fe" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/7e242cca-4fb5-4e5a-a87b-5dbe8b0862fe" style= "height: 150px;"> <br>
 
 
  
@@ -207,22 +207,22 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.1 R^2** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Indicates the proportion of variance in the dependent variable explained by the independent variables. R² ranges from 0 to 1, where values closer to 1 represent a better fit. <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/5e79d89f-8583-47df-ba33-8686e059cc0e" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/5e79d89f-8583-47df-ba33-8686e059cc0e" style= "height: 150px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.2 ADJUSTED R^2** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Adjusted R^2 is a modified version of R-squared that accounts for the number of predictors in a regression model. It’s useful because it penalizes the addition of irrelevant variables, helping to determine if adding more features improves the model's performance. <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7f67f853-39a9-4df2-ba0c-25094e9bf842" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/7f67f853-39a9-4df2-ba0c-25094e9bf842" style= "height: 150px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.3 MEAN SQUARED ERROR** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Measures the average of the squared differences between predicted and actual values.<br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/d9f91806-fca4-4477-b500-47b9709d6f8d" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/d9f91806-fca4-4477-b500-47b9709d6f8d" style= "height: 150px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.4 GETTING THE COEFFICIENTS** <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interpret coefficients to understand the significance of each variable in predicting sales. <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/c2519f45-9ccb-4069-a7c5-9402dadddb08" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/c2519f45-9ccb-4069-a7c5-9402dadddb08" style= "height: 150px;"> <br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.5 VISUALIZATION** <br>
