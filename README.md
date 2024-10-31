@@ -112,7 +112,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.1 Importing Datasets** 
  <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/a42ea2b9-eca7-458d-a94a-a582dd4aad67"style=  "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/a42ea2b9-eca7-458d-a94a-a582dd4aad67"style=  "height: 180px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **1.2 HANDLE MISSING VALUES**
   <br>
@@ -136,15 +136,15 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate how these outliers might affect analysis. In sales data, outliers may represent data errors. <br>
   
  <p align="center">
- <img src= "https://github.com/user-attachments/assets/12bdcada-33f3-4272-955e-9446a41003a6"style= "height: 100px;">
+ <img src= "https://github.com/user-attachments/assets/12bdcada-33f3-4272-955e-9446a41003a6"style= "height: 180px;">
   
 <h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the figure shows the verifying column names to ensure correct target  variable. <br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/f689442d-b6f3-4eab-9824-fa08f6f7d784" style= "height: 350px;"> <br>
- <img src= "https://github.com/user-attachments/assets/b41f675b-f238-45f4-bffd-0d5c17ab0bc7" style= "height: 335px;"> <br>
- <img src= "https://github.com/user-attachments/assets/09686667-e6d5-47c1-9f27-dd86e120f14b" style= "height: 305px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/9d44be10-3974-4e09-ac2c-6bee9091c849" style= "height: 350px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/6f5056bc-3138-49f9-b27e-642d5d01e837" style= "height: 335px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/5e15024d-4d37-4518-a648-3810c28a7569" style= "height: 305px;"> <br>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1 INDEPENDENT VARIABLE** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the independent variable in the sales data is "SALES"<br>
