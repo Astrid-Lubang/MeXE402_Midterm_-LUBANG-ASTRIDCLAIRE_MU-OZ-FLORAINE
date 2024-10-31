@@ -136,15 +136,15 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate how these outliers might affect analysis. In sales data, outliers may represent data errors. <br>
   
  <p align="center">
- <img src= "https://github.com/user-attachments/assets/12bdcada-33f3-4272-955e-9446a41003a6"style= "height: 180px;">
+ <img src= "https://github.com/user-attachments/assets/12bdcada-33f3-4272-955e-9446a41003a6"style= "height: 160px;">
   
 <h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the figure shows the verifying column names to ensure correct target  variable. <br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/9d44be10-3974-4e09-ac2c-6bee9091c849" style= "height: 350px;"> <br>
- <img src= "https://github.com/user-attachments/assets/6f5056bc-3138-49f9-b27e-642d5d01e837" style= "height: 335px;"> <br>
- <img src= "https://github.com/user-attachments/assets/5e15024d-4d37-4518-a648-3810c28a7569" style= "height: 305px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/9d44be10-3974-4e09-ac2c-6bee9091c849" style= "height: 160px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/6f5056bc-3138-49f9-b27e-642d5d01e837" style= "height: 300px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/5e15024d-4d37-4518-a648-3810c28a7569" style= "height: 160px;"> <br>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1 INDEPENDENT VARIABLE** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the independent variable in the sales data is "SALES"<br>
