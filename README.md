@@ -203,4 +203,20 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <img src= "https://github.com/user-attachments/assets/e63a1295-c086-4e7a-9df5-c60f27b20da1" style= "height: 256px;"> <br>
 <img src= "https://github.com/user-attachments/assets/068eaa76-48cd-4e87-8aca-3d84e616e600" style= "height: 250px;"> <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X_test <br> 
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/9c849718-11f3-415d-ad38-9765e94cf5f6" style= "height: 250px;"> <br>
+<img src= "https://github.com/user-attachments/assets/266231a2-617b-4365-8019-c95a50717843" style= "height: 255px;"> <br>
+<img src= "https://github.com/user-attachments/assets/6d00a6e5-1f4d-4ba7-8d2f-2d031035fb33" style= "height: 250px;"> <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_test <br> 
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/ac1138aa-0b80-436d-bedb-df731295ab61" style= "height: 250px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_test <br> 
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/2d016924-44f4-4a15-a4f3-0acaa9eefd7a" style= "height: 250px;"> <br>
+
+<h1 align="justify">Part 2:BUILDING AND TRAINING MODEL </h1> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.3 CHECKING NULL VALUES** <br>
