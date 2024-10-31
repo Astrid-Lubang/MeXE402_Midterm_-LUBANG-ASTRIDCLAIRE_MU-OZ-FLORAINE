@@ -132,7 +132,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Dropping Missing Values** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/15521807-1cd3-4bb6-8a2b-7197c37cc3a9" style= "height: 500px;"> 
+<img src= "https://github.com/user-attachments/assets/15521807-1cd3-4bb6-8a2b-7197c37cc3a9" style= "height: 300px;"> 
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.3 CHECK FOR OUTLIERS**
   <br>
