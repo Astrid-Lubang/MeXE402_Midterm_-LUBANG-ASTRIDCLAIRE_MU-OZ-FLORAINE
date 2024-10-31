@@ -118,17 +118,14 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
   <br>
  <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the process involves indentifying and addressing any gaps in dataset. This may include the checking missing values and dropping the missing values.The figures attached are the step by step process. <br>
- <p align="justify">
-<img src= "https://github.com/user-attachments/assets/2d0e9144-0a21-4c2b-a1d4-76d37e90a34a"style=  "height: 500px;"> <br>
-
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Checking Missing Values** <br>
  <p align="center">
- <img src= "https://github.com/user-attachments/assets/0f1677dc-f317-4dff-b1c3-8dcf7df273ed" style= "height: 325px;"> <br>
+<img src= "https://github.com/user-attachments/assets/2d0e9144-0a21-4c2b-a1d4-76d37e90a34a"style=  "height: 500px;"> <br>
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Dropping Missing Values** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/b07bc3cc-a12d-4b98-8fad-27fad6e602f5" style= "height: 300px;"> 
+<img src= "https://github.com/user-attachments/assets/15521807-1cd3-4bb6-8a2b-7197c37cc3a9" style= "height: 500px;"> 
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.3 CHECK FOR OUTLIERS**
   <br>
