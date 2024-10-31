@@ -118,8 +118,8 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
   <br>
  <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the process involves indentifying and addressing any gaps in dataset. This may include the checking missing values and dropping the missing values.The figures attached are the step by step process. <br>
- <p align="center">
-<img src= "https://github.com/user-attachments/assets/2d0e9144-0a21-4c2b-a1d4-76d37e90a34a"style=  "height: 300px;"> <br>
+ <p align="justify">
+<img src= "https://github.com/user-attachments/assets/2d0e9144-0a21-4c2b-a1d4-76d37e90a34a"style=  "height: 500px;"> <br>
 
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Checking Missing Values** <br>
