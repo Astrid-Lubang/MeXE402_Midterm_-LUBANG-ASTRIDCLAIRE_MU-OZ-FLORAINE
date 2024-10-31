@@ -110,10 +110,6 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.1 Importing Datasets** 
  <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/39e5d729-37f2-4cb1-9f45-67807fe53130" style= "height: 127px;"> 
-<img src= "https://github.com/user-attachments/assets/6c020d51-4c15-453f-a44f-b64166210dda" style="height: 300px;"> 
-<img src= "https://github.com/user-attachments/assets/38311bef-64e9-4ae8-b568-ffc33cf9bc68" style="height: 268px;">
-</p>
 <img src= "https://github.com/user-attachments/assets/53744f8c-a7bf-4708-90b2-bff794385c50" style= "height: 140px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **1.2 HANDLE MISSING VALUES**
