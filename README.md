@@ -141,18 +141,30 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <h1 align="justify">Part 2: GETTING INPUTS AND OUTPUTS</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this part the figure shows the verifying column names to ensure correct target  variable. <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1 CONVERTING 'STATUS' INTO NUMERICAL DATA  FOR DEPENDENT VARIABLE SELECTION** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When estimating the likelihood that an order will be completed or the elements that lead to fulfillment delays, it is best to use 'STATUS' as a dependent variable. Otherwise, concentrating on a regression technique would be more suitable if your objective is to forecast numerical results such as 'SALES'. <br>
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/9d44be10-3974-4e09-ac2c-6bee9091c849" style= "height: 100px;"> <br>
- <img src= "https://github.com/user-attachments/assets/6f5056bc-3138-49f9-b27e-642d5d01e837" style= "height: 300px;"> <br>
- <img src= "https://github.com/user-attachments/assets/5e15024d-4d37-4518-a648-3810c28a7569" style= "height: 100px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/d8dbdd4e-6076-47b6-a34f-b24d06c6a8d4" style= "height: 100px;"> <br>
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1 INDEPENDENT VARIABLE** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2 INDEPENDENT VARIABLE** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the independent variable in the sales data is "SALES"<br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/3f5ebf8c-9d5e-4155-8406-2af05d87158a" style= "height: 190px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/932fd4de-c040-434b-a4ad-09ac3cb8ddf6" style= "height: 298px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.3 DEPENDENT VARIABLE** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the dependent variable in the sales data are "'QUANTITYORDERED', 'PRICEEACH', 'MSRP','STATUS'"<br>
+
+<p align="center">
+ <img src= "https://github.com/user-attachments/assets/9fac7e2e-a168-4989-9660-431b2270292d" style= "height: 2980px;"> <br>
  
 <h1 align="justify">Part 3: CREATING TRAINING SET AND THE TEST SET</h1>
+
+<p align="center">
+ <img src= "https://github.com/user-attachments/assets/9f64c35d-2b6e-4811-a37c-3dd8121d3696" style= "height: 2980px;"> <br>
+
+ 
+
 <h1 align="justify">Part 4: EVALUATING THE MODEL</h1>
 
 <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
