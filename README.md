@@ -4,6 +4,8 @@
   * [III. PROJECT OBJECTIVES](#iii-projectobjectives)
   * [IV. DOCUMENTATION](#iv-documentation) <br>
       + [ METHODOLOGY](methodology)
+  *[V.SUMMARY AND FINDINGS](v.summaryandfindings)
+  * [VI.REFERENCE](#vi-reference)
     
 # I. INTRODUCTION
 
@@ -111,9 +113,6 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/a42ea2b9-eca7-458d-a94a-a582dd4aad67"style=  "height: 180px;"> <br>
-
-
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **1.2 HANDLE MISSING VALUES**
   <br>
@@ -249,5 +248,35 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/94e2a78b-b338-4ae3-a432-2c83f984ceae" style= "height: 150px;"> <br>
+
+<h1 align="justify">Part 3:EVALUATING THE MODEL </h1> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.1 CONFUSION MATRIX**
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/28d406db-c931-46e1-8609-b599be456836 "style= "height: 68px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.2 ACCURACY**
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e8a91bcc-6559-4032-ad9d-e41f525c2667"style= "height: 90px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.3 PLOT CONFUSION MATRICES**
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3a57e854-83ca-4220-8bdc-05bcd24f0393"style= "height: 300px;"> <br>
+
+# V. SUMMARY AND FINDINGS
+ <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
+
+ <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **INFERENCE**
+
+ 
+ 
+# VI. REFERENCES
+
+
 
 
