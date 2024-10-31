@@ -217,12 +217,12 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.3 MEAN SQUARED ERROR** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Measures the average of the squared differences between predicted and actual values.<br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/d9f91806-fca4-4477-b500-47b9709d6f8d" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/d9f91806-fca4-4477-b500-47b9709d6f8d" style= "height: 140px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.4 GETTING THE COEFFICIENTS** <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interpret coefficients to understand the significance of each variable in predicting sales. <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/c2519f45-9ccb-4069-a7c5-9402dadddb08" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/c2519f45-9ccb-4069-a7c5-9402dadddb08" style= "height: 200px;"> <br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.5 VISUALIZATION** <br>
