@@ -227,8 +227,8 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.5 VISUALIZATION** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/de417078-f00e-4c51-9e6a-44d239dd919e" style= "height: 200px;"> <br>
-<img src= "https://github.com/user-attachments/assets/e602d4d9-3045-4679-9b4f-5d381cc4504f" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/ea745008-c9d6-4ce5-95cb-422c4aaf257e" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/85518857-fe07-4555-a212-a81a1e2a3605" style= "height: 200px;"> <br>
 
 
 
