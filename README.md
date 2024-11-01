@@ -351,6 +351,11 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 # V. SUMMARY AND FINDINGS
  <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Explain the significance of coefficients and the model's predictive power**
+ 
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/e979e0ae-86b7-4f80-bdc4-ff0eb9ec8f8b"style= "height: 300px;"> <br>
 
  <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
 
