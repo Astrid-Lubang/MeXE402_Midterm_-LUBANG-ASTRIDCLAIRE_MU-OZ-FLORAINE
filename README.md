@@ -186,20 +186,20 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.1 BUILDING THE MODEL** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/49494629-4530-449c-8fcb-b4bdc8469047" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/49494629-4530-449c-8fcb-b4bdc8469047" style= "height: 100px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 TRAINING THE MODEL** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/0acd39d8-cd44-4006-87a8-28555c7ab846" style= "height: 300px;"> <br>
+<img src= "https://github.com/user-attachments/assets/0acd39d8-cd44-4006-87a8-28555c7ab846" style= "height: 200px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 INFERENCE** <br>
 + y_pred
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 300px;"> <br>
+<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 400px;"> <br>
  
 + y_test
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7e242cca-4fb5-4e5a-a87b-5dbe8b0862fe" style= "height: 250px;"> <br>
+<img src= "https://github.com/user-attachments/assets/7e242cca-4fb5-4e5a-a87b-5dbe8b0862fe" style= "height: 220px;"> <br>
 
 
  
