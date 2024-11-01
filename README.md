@@ -299,7 +299,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.7 FEATURE SCALING** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/b197727a-606b-433e-a241-bee16a8584e4" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/b197727a-606b-433e-a241-bee16a8584e4" style= "height: 400px;"> <br>
 
  
 <h1 align="justify">Part 2:BUILDING AND TRAINING MODEL </h1> 
@@ -307,12 +307,12 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1  BUILDING THE MODEL** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/5a6e6fa0-670e-41ce-b148-ec6a60eea26a" style= "height: 55px;"> <br>
+<img src= "https://github.com/user-attachments/assets/5a6e6fa0-670e-41ce-b148-ec6a60eea26a" style= "height: 80px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2  TRAIN THE MODEL** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7a7a077d-bb05-4bd1-aa60-de9a652405fe" style= "height: 95px;"> <br>
+<img src= "https://github.com/user-attachments/assets/7a7a077d-bb05-4bd1-aa60-de9a652405fe" style= "height: 105px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.3 INFERENCE**
 
@@ -320,7 +320,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Making the predictions of the data points in the test set. <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7fd26daf-df25-41e5-8f96-d8098433aeaa" style= "height: 45px;"> <br>
+<img src= "https://github.com/user-attachments/assets/7fd26daf-df25-41e5-8f96-d8098433aeaa" style= "height: 105px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y_pred <br> 
 
@@ -337,17 +337,17 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.1 CONFUSION MATRIX**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/aa09cde9-9af1-45f9-b1f3-8dc3a8fe25d6"style= "height: 68px;"> <br>
+<img src="https://github.com/user-attachments/assets/aa09cde9-9af1-45f9-b1f3-8dc3a8fe25d6"style= "height: 175px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.2 ACCURACY**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/58022033-41fa-457e-91b2-6e4089e28143"style= "height: 90px;"> <br>
+<img src="https://github.com/user-attachments/assets/58022033-41fa-457e-91b2-6e4089e28143"style= "height: 175px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.3 PLOT CONFUSION MATRICES**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cfecdc17-4655-44d7-916a-e395225f875c"style= "height: 300px;"> <br>
+<img src="https://github.com/user-attachments/assets/cfecdc17-4655-44d7-916a-e395225f875c"style= "height: 400px;"> <br>
 
 # V. SUMMARY AND FINDINGS
  <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
@@ -360,13 +360,13 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The variable y_pred is the output from this model, representing predictions on the test dataset.Y_pred is to indicate whether each test sample is classified as benign (0) or malignant (1). <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4a03d810-9794-462d-9a33-771145b918a6"style= "height: 100px;"> <br>
+<img src="https://github.com/user-attachments/assets/4a03d810-9794-462d-9a33-771145b918a6"style= "height: 180px;"> <br>
  
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The y_test contains the true diagnostic classifications for each sample in the test set, identifying whether each case of breast cancer is benign (0) or malignant (1). <br>
 
  <p align="center">
-<img src= "https://github.com/user-attachments/assets/ca7b233f-e209-4876-bf9b-f0cf77735f97" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/ca7b233f-e209-4876-bf9b-f0cf77735f97" style= "height: 190px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CONFUSION MATRIX** <br> 
 
