@@ -195,10 +195,11 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 INFERENCE** <br>
 + y_pred
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 150px;"> <br>
-+ y_pred
+<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 200px;"> <br>
+ 
++ y_test
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7e242cca-4fb5-4e5a-a87b-5dbe8b0862fe" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/7e242cca-4fb5-4e5a-a87b-5dbe8b0862fe" style= "height: 300px;"> <br>
 
 
  
