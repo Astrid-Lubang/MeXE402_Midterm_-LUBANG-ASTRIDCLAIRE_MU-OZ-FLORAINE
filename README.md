@@ -275,7 +275,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.6 CREATING THE TRAINING SET AND THE TEST SET** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/19b1559e-ef14-4d81-a670-02928d35b329" style= "height: 40px;"> <br>
+<img src= "https://github.com/user-attachments/assets/19b1559e-ef14-4d81-a670-02928d35b329" style= "height: 150px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X_test <br> 
 
@@ -290,24 +290,29 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_test <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/ac1138aa-0b80-436d-bedb-df731295ab61" style= "height: 160px;"> <br>
+<img src= "https://github.com/user-attachments/assets/2278cee3-59d1-4da5-9e51-b4151765ff2d" style= "height: 160px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_train <br> 
 
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/53c3ed38-2bca-4817-a830-65db511a2521" style= "height: 160px;"> <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.7 FEATURE SCALING** <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/b197727a-606b-433e-a241-bee16a8584e4" style= "height: 150px;"> <br>
+
+ 
 <h1 align="justify">Part 2:BUILDING AND TRAINING MODEL </h1> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1  BUILDING THE MODEL** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/f05dbc07-4365-4921-9b02-dde1ac2c4f81" style= "height: 55px;"> <br>
+<img src= "https://github.com/user-attachments/assets/5a6e6fa0-670e-41ce-b148-ec6a60eea26a" style= "height: 55px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2  TRAIN THE MODEL** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/477dcfe3-5b53-4d00-bb66-bfdc0907f128" style= "height: 95px;"> <br>
+<img src= "https://github.com/user-attachments/assets/7a7a077d-bb05-4bd1-aa60-de9a652405fe" style= "height: 95px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.3 INFERENCE**
 
@@ -315,17 +320,17 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Making the predictions of the data points in the test set. <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/e89f2db1-1165-4fbf-a1a5-309490325ad7" style= "height: 45px;"> <br>
+<img src= "https://github.com/user-attachments/assets/7fd26daf-df25-41e5-8f96-d8098433aeaa" style= "height: 45px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y_pred <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/726a0c3e-2679-46a1-a9d0-8b518dbb2ade" style= "height: 92px;"> <br>
+<img src= "https://github.com/user-attachments/assets/38b160fd-61d7-4e2a-b91e-0e8cd11a704a" style= "height: 92px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y_test <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/94e2a78b-b338-4ae3-a432-2c83f984ceae" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/9ebd17c9-7a7d-4781-9d1c-35da49278705" style= "height: 150px;"> <br>
 
 <h1 align="justify">Part 3:EVALUATING THE MODEL </h1> 
 
