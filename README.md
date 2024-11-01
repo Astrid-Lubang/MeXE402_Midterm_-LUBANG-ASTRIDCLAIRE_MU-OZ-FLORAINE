@@ -190,7 +190,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 TRAINING THE MODEL** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/0acd39d8-cd44-4006-87a8-28555c7ab846" style= "height: 220px;"> <br>
+<img src= "https://github.com/user-attachments/assets/0acd39d8-cd44-4006-87a8-28555c7ab846" style= "height: 250px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 INFERENCE** <br>
 + y_pred
