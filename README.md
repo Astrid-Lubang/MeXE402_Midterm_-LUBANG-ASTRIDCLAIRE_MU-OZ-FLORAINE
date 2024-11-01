@@ -167,19 +167,19 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  
  + X_train
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/c5a0cd67-efbf-4281-b01e-f893d2e25b52" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/c5a0cd67-efbf-4281-b01e-f893d2e25b52" style= "height: 190px;"> <br>
 
  + X_test
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/f784f99b-2dac-4ce2-9439-70b89ec68078" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/f784f99b-2dac-4ce2-9439-70b89ec68078" style= "height: 190px;"> <br>
 
  + y_train
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/3641533e-f298-475b-8cbf-b30acc6d7cc2" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/3641533e-f298-475b-8cbf-b30acc6d7cc2" style= "height: 190px;"> <br>
 
  + y_test
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/40ea9968-a0d3-435a-894c-0eb2147fa218" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/40ea9968-a0d3-435a-894c-0eb2147fa218" style= "height: 190px;"> <br>
 
 <h1 align="justify">Part 4: BUILDING AND TRAINING THE MODEL</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Converting historical data into actionable insights through model training can lead to better, more strategic decisions and better results. <br>
@@ -190,7 +190,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 TRAINING THE MODEL** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/0acd39d8-cd44-4006-87a8-28555c7ab846" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/0acd39d8-cd44-4006-87a8-28555c7ab846" style= "height: 220px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 INFERENCE** <br>
 + y_pred
