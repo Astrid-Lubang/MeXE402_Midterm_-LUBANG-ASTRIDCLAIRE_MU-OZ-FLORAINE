@@ -270,36 +270,32 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y <br>
  
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/3c1e1369-ef4a-411a-9c0a-dd1617f1815b" style= "height: 165px;"> <br>
+<img src= "https://github.com/user-attachments/assets/3a9107aa-926b-457a-b5c9-7d95bdaacf0a" style= "height: 165px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.6 CREATING THE TRAINING SET AND THE TEST SET** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/a8b9b20a-31a2-4130-b3d8-704d8342fb39" style= "height: 40px;"> <br>
+<img src= "https://github.com/user-attachments/assets/19b1559e-ef14-4d81-a670-02928d35b329" style= "height: 40px;"> <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X_train <br> 
-
-<p align="center">
-<img src= "https://github.com/user-attachments/assets/f8e9d817-aa99-4175-80fa-4a7f7e5cc011" style= "height: 250px;"> <br>
-<img src= "https://github.com/user-attachments/assets/e63a1295-c086-4e7a-9df5-c60f27b20da1" style= "height: 256px;"> <br>
-<img src= "https://github.com/user-attachments/assets/068eaa76-48cd-4e87-8aca-3d84e616e600" style= "height: 250px;"> <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  X_test <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X_test <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/9c849718-11f3-415d-ad38-9765e94cf5f6" style= "height: 250px;"> <br>
-<img src= "https://github.com/user-attachments/assets/266231a2-617b-4365-8019-c95a50717843" style= "height: 255px;"> <br>
-<img src= "https://github.com/user-attachments/assets/6d00a6e5-1f4d-4ba7-8d2f-2d031035fb33" style= "height: 250px;"> <br>
+<img src= "https://github.com/user-attachments/assets/2a491adc-52a4-4dee-a5e0-4fdc73a67afb" style= "height: 250px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  X_train <br> 
+
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/7f68b08a-9342-4db0-a373-7fb6fc0d318b" style= "height: 250px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_test <br> 
 
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/ac1138aa-0b80-436d-bedb-df731295ab61" style= "height: 160px;"> <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_test <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_train <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/2d016924-44f4-4a15-a4f3-0acaa9eefd7a" style= "height: 160px;"> <br>
+<img src= "https://github.com/user-attachments/assets/53c3ed38-2bca-4817-a830-65db511a2521" style= "height: 160px;"> <br>
 
 <h1 align="justify">Part 2:BUILDING AND TRAINING MODEL </h1> 
 
