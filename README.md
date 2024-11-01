@@ -146,32 +146,32 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When estimating the likelihood that an order will be completed or the elements that lead to fulfillment delays, it is best to use 'STATUS' as a dependent variable. Otherwise, concentrating on a regression technique would be more suitable if your objective is to forecast numerical results such as 'SALES'. <br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/d8dbdd4e-6076-47b6-a34f-b24d06c6a8d4" style= "height: 100px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/d8dbdd4e-6076-47b6-a34f-b24d06c6a8d4" style= "height: 400px;"> <br>
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2 INDEPENDENT VARIABLE** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the independent variable in the sales data is "SALES"<br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/932fd4de-c040-434b-a4ad-09ac3cb8ddf6" style= "height: 108px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/932fd4de-c040-434b-a4ad-09ac3cb8ddf6" style= "height: 250px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.3 DEPENDENT VARIABLE** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the dependent variable in the sales data are "'QUANTITYORDERED', 'PRICEEACH', 'MSRP','STATUS'"<br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/9fac7e2e-a168-4989-9660-431b2270292d" style= "height: 200px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/9fac7e2e-a168-4989-9660-431b2270292d" style= "height: 250px;"> <br>
  
 <h1 align="justify">Part 3: CREATING TRAINING SET AND THE TEST SET</h1>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/9f64c35d-2b6e-4811-a37c-3dd8121d3696" style= "height: 200px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/9f64c35d-2b6e-4811-a37c-3dd8121d3696" style= "height: 170px;"> <br>
  
  + X_train
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/c5a0cd67-efbf-4281-b01e-f893d2e25b52" style= "height: 190px;"> <br>
+<img src= "https://github.com/user-attachments/assets/c5a0cd67-efbf-4281-b01e-f893d2e25b52" style= "height: 250px;"> <br>
 
  + X_test
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/f784f99b-2dac-4ce2-9439-70b89ec68078" style= "height: 190px;"> <br>
+<img src= "https://github.com/user-attachments/assets/f784f99b-2dac-4ce2-9439-70b89ec68078" style= "height: 250px;"> <br>
 
  + y_train
 <p align="center">
