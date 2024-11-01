@@ -336,17 +336,17 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.1 CONFUSION MATRIX**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/28d406db-c931-46e1-8609-b599be456836 "style= "height: 68px;"> <br>
+<img src="https://github.com/user-attachments/assets/aa09cde9-9af1-45f9-b1f3-8dc3a8fe25d6"style= "height: 68px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.2 ACCURACY**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e8a91bcc-6559-4032-ad9d-e41f525c2667"style= "height: 90px;"> <br>
+<img src="https://github.com/user-attachments/assets/58022033-41fa-457e-91b2-6e4089e28143"style= "height: 90px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.3 PLOT CONFUSION MATRICES**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3a57e854-83ca-4220-8bdc-05bcd24f0393"style= "height: 300px;"> <br>
+<img src="https://github.com/user-attachments/assets/cfecdc17-4655-44d7-916a-e395225f875c"style= "height: 300px;"> <br>
 
 # V. SUMMARY AND FINDINGS
  <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
@@ -359,13 +359,13 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The variable y_pred is the output from this model, representing predictions on the test dataset.Y_pred is to indicate whether each test sample is classified as benign (0) or malignant (1). <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f0d9cd18-9f0c-4c2a-a0f9-77902dca24e4"style= "height: 100px;"> <br>
+<img src="https://github.com/user-attachments/assets/4a03d810-9794-462d-9a33-771145b918a6"style= "height: 100px;"> <br>
  
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The y_test contains the true diagnostic classifications for each sample in the test set, identifying whether each case of breast cancer is benign (0) or malignant (1). <br>
 
  <p align="center">
-<img src= "https://github.com/user-attachments/assets/94e2a78b-b338-4ae3-a432-2c83f984ceae" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/ca7b233f-e209-4876-bf9b-f0cf77735f97" style= "height: 150px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CONFUSION MATRIX** <br> 
 
@@ -373,13 +373,13 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The figure attached represents the model's performance between two classes: benign (0) and malignant (1).
 
- + **TRUE NEGATIVE (TN)** - label 0, predicted 0 the result value is 70. This indicates that the model correctly classified 70 benign cases as benign.
- + **FALSE POSITIVE (FP)** - label 0, predicted 1 the result value is 1.This represents a single benign case that was incorrectly classified as malignantThis is known as a Type I error.
- + **FALSE NEGATIVE (FN)** - label 1, predicted 0 the result value is 0 the result value is 2.ndicating that 2 malignant cases were incorrectly classified as benign. This is known as a Type II error.
- + **TRUE POSITIVE (TP)** - label 1, predicted 1 the result value is 41 means that the model correctly classified 41 malignant cases as malignant.
+ + **TRUE NEGATIVE (TN)** - label 0, predicted 0 the result value is 65. This indicates that the model correctly classified 70 benign cases as benign.
+ + **FALSE POSITIVE (FP)** - label 0, predicted 1 the result value is 2.This represents a single benign case that was incorrectly classified as malignantThis is known as a Type I error.
+ + **FALSE NEGATIVE (FN)** - label 1, predicted 0 the result value is 2 the result value is 2.ndicating that 2 malignant cases were incorrectly classified as benign. This is known as a Type II error.
+ + **TRUE POSITIVE (TP)** - label 1, predicted 1 the result value is 44 means that the model correctly classified 41 malignant cases as malignant.
 
   <p align="center">
-<img src= "https://github.com/user-attachments/assets/6a8f65f3-599c-479a-8061-8420826f34d7"style= "height: 300px;"> <br>
+<img src= "https://github.com/user-attachments/assets/8f98cf65-4d0a-419b-bff9-4d62dcde6348"style= "height: 300px;"> <br>
 
 # VI. REFERENCES
 
