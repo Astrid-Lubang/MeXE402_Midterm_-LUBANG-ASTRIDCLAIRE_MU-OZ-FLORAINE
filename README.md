@@ -386,7 +386,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R-Squared**
  
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The R-squared value is 0.8101, meaning the independent variables explain about 81% of the variation in sales based on the chosen features. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The R-squared value is 0.91meaning the independent variables explain about 91% of the variation in sales based on the chosen features. <br>
 
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/8ba07816-8d8b-47d2-8d67-6df8905853d5" style= "height: 100px;"> <br>
@@ -394,7 +394,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mean Squared Error**
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Calculated is approximately 533303.0383, indicating the average squared difference between the predictions and actual sales values.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Calculated is approximately 263551.435 indicating the average squared difference between the predictions and actual sales values. <br>
 
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/1aae1628-dc79-4e07-b4ea-dbed8d1a7ee8" style= "height: 140px;"> <br>
@@ -404,10 +404,43 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  <p align="center">
 <img src="https://github.com/user-attachments/assets/b390ce27-8cfc-4007-8b6f-d0104287a635"style= "height: 250px;"> <br>
 
-+ For every additional unit ordered, SALES increase by 96.44. This shows a strong positive relationship, meaning that increasing order quantity significantly boosts sales.
-+ For each additional unit increase in the price per item, SALES increase by 38.96.Higher prices per item contribute positively to sales, possibly indicating that customers perceive value or quality at higher price points.
-+ A 1-unit increase in MSRP leads to a 14.18 increase in SALES. This suggests that a higher suggested retail price has a positive effect on sales.
-+ The coefficient of 24.88 indicates that certain statuses (like "shipped") increase SALES by 24.88 compared to other statuses. It reflect sales growth when orders arise.
++ MSRP (Manufacturer's Suggested Retail Price)
+The coefficient of MRSP is 7.149870 in every unit increase in MSRP, the dependent variable is
+expected to increase by approximately 7.15 units, assuming all other factors remain constant. This positive relationship suggests that higher MSRP prices contribute positively to the outcome, potentially because higher MSRP might be linked to perceived value or product quality.
++ QUANTITYORDERED
+ Each additional unit ordered is associated with a significant increase of approximately 67.90 units in the dependent variable. This strong positive coefficient indicates that larger order quantities drive higher outcomes, which is logical as higher quantities would naturally contribute to greater sales or revenue.
++ PRICEEACH
+ For every one-unit increase in the price per unit (PRICEEACH), the dependent variable increases by about 32.57 units. This positive relationship suggests that selling items at a higher price per unit is beneficial to the outcome, which is expected if the product retains demand at higher prices.
++ DEALSIZE_Medium
+ When the DEALSIZE_Medium (compared to the baseline, possibly "Large" deal size), the dependent variable decreases by about 2502.92 units. This negative coefficient implies that medium-sized deals contribute less to the outcome than large deals, possibly due to lower
+transaction volumes or values in medium-sized deals.
++ DEALSIZE_Small
+ A DEALSIZE_Small is compared to a large deal size, decreases the dependent variable by around
+3205.57 units. This further confirms that smaller deals result in substantially lower outcomes,
+perhaps due to reduced volume or value associated with these deals.
++ PRODUCTLINE_Motorcycles
+If the PRODUCT_Motorcycles (compared to a baseline product line, such as "Cars"), the dependent
+variable decreases by about 20.95 units. This negative coefficient indicates that sales or outcomes for motorcycles are generally lower than the baseline product line.
++ PRODUCTLINE_Planes
+ The PRODUCTLINE_Planes reduces the outcome by around 120.47 units compared to the baseline. This significant negative impact suggests that planes are a less profitable or lower-selling product line.
++ PRODUCTLINE_Ships
+ The PRODUCTLINE_Ships product line has a coefficient of -181.52, indicating a substantial
+decrease in the dependent variable when compared to the baseline product line. This may reflect
+lower demand or higher costs associated with this category.
++ PRODUCTLINE_Trains
+ The PRODUCT_Trains, the dependent variable increases by 66.60 units. This positive coefficient
+implies that trains contribute positively to the outcome, possibly due to higher demand or pricing for this product line.
++ PRODUCTLINE_Trucks and Buses
+ PRODUCTLINE_Trucks and Buses, the outcome decreases slightly by about 1.05 units, indicating a
+minor negative effect.
++ PRODUCTLINE_Vintage Cars
+ The PRODUCTLINE_Vintage Cars product line is associated with a decrease of approximately
+73.13 units in the dependent variable. This may suggest a lower sales volume or profitability
+compared to more modern product lines.
+
+**Overall Interpretation**
+Each coefficient represents the impact of a one-unit increase in the respective variable on the
+outcome variable, holding all other variables constant. Positive coefficients is a positive impact on the outcome, while negative coefficients is a decrease. 
 <br>
 
 **Visualization**
@@ -415,13 +448,16 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
 <img src= "https://github.com/user-attachments/assets/9ad3bbf7-b848-446d-8227-43f688fec290" style= "height: 500px;"> <br>
 
-+ The scatter plot uses individual blue dots to represent data points, where each dot corresponds to a pair of actual and predicted sales values.
-+ The x-axis represents the actual sales values, while the y-axis shows the predicted sales values. This comparison helps to evaluate the accuracy of the regression model by observing how closely the predicted values align with the actual values.
++ The scatter plot uses individual sky blue dots to represent data points, where each dot
+corresponds to a pair of actual and predicted sales values.
++ The x-axis represents the actual sales values, while the y-axis shows the predicted sales
+values. This comparison helps to evaluate the accuracy of the regression model by observing
+how closely the predicted values align with the actual values.
 
 <p align="justify">
 **Analysis**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TThe blue dots close to the red line show that the model's predicted sales closely match the actual sales, indicating high accuracy for these points. This means the model is effectively capturing the relationship between features and sales, with only a small error. When many blue dots are near the red line, it suggests the model is consistently accurate across the dataset and reliable for predicting sales. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The sky blue dots close to the red line show that the model's predicted sales closely match the actual sales, indicating high accuracy for these points. This means the model represents the relationship between features and sales, with only a small error. When many sky blue dots are near the red line, it suggests the model is consistently accurate across the dataset and reliable for predicting sales. <br>
 
 
 
@@ -473,8 +509,8 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
    **Key Findings** 
 
    + The linear regression model achieves accuracy in predicting sales, effectively to the relationship between product quantity and sales revenue.
-   + The R-squared value was 0.81012 approximately 81% means that the predictions is closely to the true value.
-   + Coefficients in regression analysis are important because they show how different factors affect outcomes, like sales. A high coefficient, such as 24.88 for the "shipped" status, means that timely fulfillment significantly boosts sales. This information helps businesses to know which factors they will prioritize for improvements. By comparing coefficients, companies can see how various statuses influence sales and make informed decisions to enhance operations and customer satisfaction. <br>
+   + The R-squared value was 0.91069 approximately 91% means that the predictions is closely to the true value.
+   + Coefficients in regression analysis are important because they show how different factors affect outcomes, like sales. A high coefficient, such as 7.1499 for the 'MSRP', means that timely fulfillment significantly boosts sales. This information helps businesses to know which factors they will prioritize for improvements. By comparing coefficients, companies can see how various statuses influence sales and make informed decisions to enhance operations and customer satisfaction. <br>
 
   <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
 
