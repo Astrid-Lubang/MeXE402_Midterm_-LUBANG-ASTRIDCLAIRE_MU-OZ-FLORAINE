@@ -391,7 +391,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 **Interpretation**
  
  <p align="center">
-<img src="https://github.com/user-attachments/assets/e979e0ae-86b7-4f80-bdc4-ff0eb9ec8f8b"style= "height: 250px;"> <br>
+<img src="https://github.com/user-attachments/assets/8a31c93a-efdd-494e-a8ba-b844ffa25bbd"style= "height: 250px;"> <br>
 
 + For every additional unit ordered, SALES increase by 96.44. This shows a strong positive relationship, meaning that increasing order quantity significantly boosts sales.
 + For each additional unit increase in the price per item, SALES increase by 38.96.Higher prices per item contribute positively to sales, possibly indicating that customers perceive value or quality at higher price points.
