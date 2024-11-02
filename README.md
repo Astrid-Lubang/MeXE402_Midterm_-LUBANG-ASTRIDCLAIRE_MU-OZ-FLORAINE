@@ -373,7 +373,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y_pred represents the model's estimated sales outcomes based on input variables, predicting future sales. <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 400px;"> <br>
+<img src= "https://github.com/user-attachments/assets/cb91bd9f-1760-479b-ba52-2f59a84a22dd" style= "height: 400px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **y_test**
 
@@ -381,7 +381,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;y_test is the actual sales values from the test dataset. <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/40ea9968-a0d3-435a-894c-0eb2147fa218" style= "height: 190px;"> <br>
+<img src= "https://github.com/user-attachments/assets/ac442156-d72a-4376-8289-41d68057f0c3" style= "height: 190px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R-Squared**
  
