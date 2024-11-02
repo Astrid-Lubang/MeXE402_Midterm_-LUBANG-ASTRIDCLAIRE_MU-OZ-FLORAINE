@@ -389,7 +389,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The R-squared value is 0.8101, meaning the independent variables explain about 81% of the variation in sales based on the chosen features. <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/5e79d89f-8583-47df-ba33-8686e059cc0e" style= "height: 100px;"> <br>
+<img src= "https://github.com/user-attachments/assets/8ba07816-8d8b-47d2-8d67-6df8905853d5" style= "height: 100px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mean Squared Error**
 
@@ -397,12 +397,12 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Calculated is approximately 533303.0383, indicating the average squared difference between the predictions and actual sales values.
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/d9f91806-fca4-4477-b500-47b9709d6f8d" style= "height: 140px;"> <br>
+<img src= "https://github.com/user-attachments/assets/1aae1628-dc79-4e07-b4ea-dbed8d1a7ee8" style= "height: 140px;"> <br>
 
 **Interpretation**
  
  <p align="center">
-<img src="https://github.com/user-attachments/assets/8a31c93a-efdd-494e-a8ba-b844ffa25bbd"style= "height: 250px;"> <br>
+<img src="https://github.com/user-attachments/assets/b390ce27-8cfc-4007-8b6f-d0104287a635"style= "height: 250px;"> <br>
 
 + For every additional unit ordered, SALES increase by 96.44. This shows a strong positive relationship, meaning that increasing order quantity significantly boosts sales.
 + For each additional unit increase in the price per item, SALES increase by 38.96.Higher prices per item contribute positively to sales, possibly indicating that customers perceive value or quality at higher price points.
@@ -413,9 +413,7 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 **Visualization**
 **Actual vs Predicted Sales**
 
-<p align="center">
-<img src= "https://github.com/user-attachments/assets/ea745008-c9d6-4ce5-95cb-422c4aaf257e" style= "height: 150px;"> <br>
-<img src= "https://github.com/user-attachments/assets/85518857-fe07-4555-a212-a81a1e2a3605" style= "height: 500px;"> <br>
+<img src= "https://github.com/user-attachments/assets/9ad3bbf7-b848-446d-8227-43f688fec290" style= "height: 500px;"> <br>
 
 + The scatter plot uses individual blue dots to represent data points, where each dot corresponds to a pair of actual and predicted sales values.
 + The x-axis represents the actual sales values, while the y-axis shows the predicted sales values. This comparison helps to evaluate the accuracy of the regression model by observing how closely the predicted values align with the actual values.
