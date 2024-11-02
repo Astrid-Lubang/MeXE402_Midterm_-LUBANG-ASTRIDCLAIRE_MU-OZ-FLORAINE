@@ -147,23 +147,23 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When estimating the likelihood that an order will be completed or the elements that lead to fulfillment delays, it is best to use 'STATUS' as a dependent variable. Otherwise, concentrating on a regression technique would be more suitable if your objective is to forecast numerical results such as 'SALES'. <br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/6350d099-a83e-49d5-97e1-c0e0992a6082" style= "height: 400px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/6350d099-a83e-49d5-97e1-c0e0992a6082" style= "height:150px;"> <br>
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2 HANDLING CATEGORICAL VARIABLES** <br>
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/6498f1bb-3fa9-4884-8d12-295076953f5" style= "height: 100px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/034c416b-1791-40cc-8930-e0adeec6219e" style= "height: 150px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.3 SELECTING RELEVANT FEATURES AND TARGET VARIABLE** <br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/e057a63e-3fd2-44c4-a991-568f0996fdd1" style= "height: 250px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/e057a63e-3fd2-44c4-a991-568f0996fdd1" style= "height: 150px;"> <br>
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2 INDEPENDENT VARIABLE** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the independent variable in the sales data is "SALES"<br>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/6a1d2ad1-6640-4a04-88e2-a4be87d100f7" style= "height: 250px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/6a1d2ad1-6640-4a04-88e2-a4be87d100f7" style= "height: 200px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.3 DEPENDENT VARIABLE** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section, the figure shows the dependent variable in the sales data are "'QUANTITYORDERED', 'PRICEEACH', 'MSRP', 'PRODUCTLINE' , 'DEALSIZE' "<br>
@@ -174,30 +174,30 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <h1 align="justify">Part 3: CREATING TRAINING SET AND THE TEST SET</h1>
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/9f64c35d-2b6e-4811-a37c-3dd8121d3696" style= "height: 170px;"> <br>
+ <img src= "https://github.com/user-attachments/assets/9f64c35d-2b6e-4811-a37c-3dd8121d3696" style= "height: 100px;"> <br>
  
  + X_train
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/0cede94c-cda7-4613-842f-4cdaa47ee997" style= "height: 250px;"> <br>
+<img src= "https://github.com/user-attachments/assets/0cede94c-cda7-4613-842f-4cdaa47ee997" style= "height: 200px;"> <br>
 
  + X_test
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/a6220de1-31ab-48b0-9733-8e4bd7db7c01" style= "height: 250px;"> <br>
+<img src= "https://github.com/user-attachments/assets/a6220de1-31ab-48b0-9733-8e4bd7db7c01" style= "height: 200px;"> <br>
 
  + y_train
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/cb2ff2b5-99e9-41d5-a546-092fcaa0faea" style= "height: 190px;"> <br>
+<img src= "https://github.com/user-attachments/assets/cb2ff2b5-99e9-41d5-a546-092fcaa0faea" style= "height: 150px;"> <br>
 
  + y_test
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/70b8d9ad-70d8-42b3-8d4a-e98549a505b3" style= "height: 190px;"> <br>
+<img src= "https://github.com/user-attachments/assets/70b8d9ad-70d8-42b3-8d4a-e98549a505b3" style= "height: 150px;"> <br>
 
 <h1 align="justify">Part 4: BUILDING AND TRAINING THE MODEL</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Converting historical data into actionable insights through model training can lead to better, more strategic decisions and better results. <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.1 BUILDING THE MODEL** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/49494629-4530-449c-8fcb-b4bdc8469047" style= "height: 100px;"> <br>
+<img src= "https://github.com/user-attachments/assets/49494629-4530-449c-8fcb-b4bdc8469047" style= "height: 80px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **4.2 TRAINING THE MODEL** <br>
 <p align="center">
@@ -235,12 +235,12 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.4 GETTING THE COEFFICIENTS** <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interpret coefficients to understand the significance of each variable in predicting sales. <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/ba22d3ad-d85c-4818-af1b-93c313cf531c" style= "height: 200px;"> <br>
+<img src= "https://github.com/user-attachments/assets/ba22d3ad-d85c-4818-af1b-93c313cf531c" style= "height: 300px;"> <br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.5 VISUALIZATION** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/cc63f8c8-c277-4d24-b412-360f597acda4" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/cc63f8c8-c277-4d24-b412-360f597acda4" style= "height: 250px;"> <br>
 <img src= "https://github.com/user-attachments/assets/2924dcd8-b027-47ae-9f89-d40f6130caf9" style= "height: 500px;"> <br>
 
 
