@@ -466,6 +466,7 @@ values. This comparison helps to evaluate the accuracy of the regression model b
 how closely the predicted values align with the actual values.
 
 <p align="justify">
+ 
 **Analysis**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The sky blue dots close to the red line show that the model's predicted sales closely match the actual sales, indicating high accuracy for these points. This means the model represents the relationship between features and sales, with only a small error. When many sky blue dots are near the red line, it suggests the model is consistently accurate across the dataset and reliable for predicting sales. <br>
