@@ -275,31 +275,31 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.6 CREATING THE TRAINING SET AND THE TEST SET** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/19b1559e-ef14-4d81-a670-02928d35b329" style= "height: 90px;"> <br>
+<img src= "https://github.com/user-attachments/assets/57360a4b-441a-4654-b651-c7e5d32bed94" style= "height: 70px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X_test <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/2a491adc-52a4-4dee-a5e0-4fdc73a67afb" style= "height: 250px;"> <br>
+<img src= "https://github.com/user-attachments/assets/2a491adc-52a4-4dee-a5e0-4fdc73a67afb" style= "height: 150px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  X_train <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7f68b08a-9342-4db0-a373-7fb6fc0d318b" style= "height: 250px;"> <br>
+<img src= "https://github.com/user-attachments/assets/ed09763e-e291-40e5-bc0b-cdf09d5cc3b2" style= "height: 250px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_test <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/2278cee3-59d1-4da5-9e51-b4151765ff2d" style= "height: 160px;"> <br>
-
+<img src= "https://github.com/user-attachments/assets/e390ad17-37a7-4d10-816c-875d11799df6" style= "height: 300px;"> <br>
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Y_train <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/53c3ed38-2bca-4817-a830-65db511a2521" style= "height: 160px;"> <br>
+<img src= "https://github.com/user-attachments/assets/c05671ae-aab9-4dff-b546-52b7cc3052f3" style= "height: 270px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.7 FEATURE SCALING** <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/b197727a-606b-433e-a241-bee16a8584e4" style= "height: 400px;"> <br>
+<img src= "https://github.com/user-attachments/assets/b197727a-606b-433e-a241-bee16a8584e4" style= "height: 200px;"> <br>
 
  
 <h1 align="justify">Part 2:BUILDING AND TRAINING MODEL </h1> 
@@ -307,12 +307,12 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.1  BUILDING THE MODEL** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/5a6e6fa0-670e-41ce-b148-ec6a60eea26a" style= "height: 80px;"> <br>
+<img src= "https://github.com/user-attachments/assets/8db3153d-0684-4945-a893-e298612a1c3b" style= "height: 100px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2  TRAIN THE MODEL** <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7a7a077d-bb05-4bd1-aa60-de9a652405fe" style= "height: 105px;"> <br>
+<img src= "https://github.com/user-attachments/assets/40bd67e5-decc-4576-81e4-1edc6c6c9ffd" style= "height: 190px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.3 INFERENCE**
 
@@ -320,17 +320,17 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Making the predictions of the data points in the test set. <br>
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/7fd26daf-df25-41e5-8f96-d8098433aeaa" style= "height: 105px;"> <br>
+<img src= "https://github.com/user-attachments/assets/bdc90f88-c82c-422d-8602-b0490b0834cb" style= "height: 110px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y_pred <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/38b160fd-61d7-4e2a-b91e-0e8cd11a704a" style= "height: 92px;"> <br>
+<img src= "https://github.com/user-attachments/assets/ebf05666-d35b-4a5b-a57e-8c412ea229e0" style= "height: 140px;"> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y_test <br> 
 
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/9ebd17c9-7a7d-4781-9d1c-35da49278705" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/e390ad17-37a7-4d10-816c-875d11799df6" style= "height: 300px;"> <br>
 
 <h1 align="justify">Part 3:EVALUATING THE MODEL </h1> 
 
@@ -350,12 +350,70 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <img src="https://github.com/user-attachments/assets/cfecdc17-4655-44d7-916a-e395225f875c"style= "height: 400px;"> <br>
 
 # V. SUMMARY AND FINDINGS
+
  <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Explain the significance of coefficients and the model's predictive power**
+<p align="justify">
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **y_pred**
+ 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y_pred represents the model's estimated sales outcomes based on input variables, predicting future sales. <br>
+
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/dce28f48-44ad-4dbc-8842-bef17db417dc" style= "height: 400px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **y_test**
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;y_test is the actual sales values from the test dataset. <br>
+
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/40ea9968-a0d3-435a-894c-0eb2147fa218" style= "height: 190px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R-Squared**
+ 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The R-squared value is 0.8101, meaning the independent variables explain about 81% of the variation in sales based on the chosen features. <br>
+
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/5e79d89f-8583-47df-ba33-8686e059cc0e" style= "height: 100px;"> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mean Squared Error**
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Calculated is approximately 533303.0383, indicating the average squared difference between the predictions and actual sales values.
+
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/d9f91806-fca4-4477-b500-47b9709d6f8d" style= "height: 140px;"> <br>
+
+**Interpretation**
  
  <p align="center">
 <img src="https://github.com/user-attachments/assets/e979e0ae-86b7-4f80-bdc4-ff0eb9ec8f8b"style= "height: 250px;"> <br>
+
++ For every additional unit ordered, SALES increase by 96.44. This shows a strong positive relationship, meaning that increasing order quantity significantly boosts sales.
++ For each additional unit increase in the price per item, SALES increase by 38.96.Higher prices per item contribute positively to sales, possibly indicating that customers perceive value or quality at higher price points.
++ A 1-unit increase in MSRP leads to a 14.18 increase in SALES. This suggests that a higher suggested retail price has a positive effect on sales.
++ The coefficient of 24.88 indicates that certain statuses (like "shipped") increase SALES by 24.88 compared to other statuses. It reflect sales growth when orders arise.
+<br>
+
+**Visualization**
+**Actual vs Predicted Sales**
+
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/ea745008-c9d6-4ce5-95cb-422c4aaf257e" style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/85518857-fe07-4555-a212-a81a1e2a3605" style= "height: 500px;"> <br>
+
++ The scatter plot uses individual blue dots to represent data points, where each dot corresponds to a pair of actual and predicted sales values.
++ The x-axis represents the actual sales values, while the y-axis shows the predicted sales values. This comparison helps to evaluate the accuracy of the regression model by observing how closely the predicted values align with the actual values.
+
+<p align="justify">
+**Analysis**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TThe blue dots close to the red line show that the model's predicted sales closely match the actual sales, indicating high accuracy for these points. This means the model is effectively capturing the relationship between features and sales, with only a small error. When many blue dots are near the red line, it suggests the model is consistently accurate across the dataset and reliable for predicting sales. <br>
+
+
 
  <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
 
@@ -373,6 +431,14 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  <p align="center">
 <img src= "https://github.com/user-attachments/assets/ca7b233f-e209-4876-bf9b-f0cf77735f97" style= "height: 190px;"> <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **INTERPRETATION** <br> 
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accuracy measures the proportion of correct predictions made by the logistic regression model out of the total predictions. Specifically, for the Breast Cancer Wisconsin dataset, an accuracy of 96.4% indicates how often the model correctly classifies a tumor as either benign or malignant. <br>
+
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/0ab502fa-8881-47e3-8c06-d538695e2da7" style= "height: 190px;"> <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CONFUSION MATRIX** <br> 
 
 <p align="justify">
@@ -384,10 +450,35 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
  + **FALSE NEGATIVE (FN)** - label 1, predicted 0 the result value is 2 the result value is 2.ndicating that 2 malignant cases were incorrectly classified as benign. This is known as a Type II error.
  + **TRUE POSITIVE (TP)** - label 1, predicted 1 the result value is 44 means that the model correctly classified 41 malignant cases as malignant.
 
-  <p align="center">
+ <p align="center">
 <img src= "https://github.com/user-attachments/assets/8f98cf65-4d0a-419b-bff9-4d62dcde6348"style= "height: 300px;"> <br>
 
-# VI. REFERENCES
+# VI. DISCUSSION
+
+  <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
+
+  <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
+
+ <p align="justify">
+ 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Analysis of the Wisconsin Breast Cancer dataset demonstrates that logistic regression is highly effective in predicting tumor malignancy. Using measurements like radius, texture, and smoothness, this model classifies tumors as benign or malignant and identifies the features crucial for accurate diagnosis. <br>
+
+ <p align="justify">
+  
+ **Key Findings** 
+
++ The logistic regression model achieves high accuracy, effectively distinguishing between benign and malignant cases.
++ High precision shows a low rate of false positives, meaning the model rarely misclassifies benign tumors as malignant.
++ An accuracy of 96.4% for this dataset indicates how often the model correctly classifies a tumor as either benign or malignant.
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Overall, logistic regression highlights the potential of machine learning for early cancer detection, where both accuracy and interpretability are essential to support early diagnosis and improve patient outcomes. <br>
+ 
+
+ 
+  
+  
+
+# VII. REFERENCES
 
  + SALES DATA LINK: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data 
  + BREAST CANCER WISCONSIN: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data 
