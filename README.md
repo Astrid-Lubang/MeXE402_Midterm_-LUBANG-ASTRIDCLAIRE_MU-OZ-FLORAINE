@@ -5,7 +5,8 @@
   * [IV. DOCUMENTATION](#iv-documentation) <br>
       + [ METHODOLOGY](methodology) <br>
   * [V.SUMMARY AND FINDINGS](v.summaryandfindings)
-  * [VI.REFERENCE](#vi-reference)
+  * [VI.DISCUSSION](#vi-discussion)
+  * [VII.REFERENCES](#vii-references) 
     
 # I. INTRODUCTION
 
