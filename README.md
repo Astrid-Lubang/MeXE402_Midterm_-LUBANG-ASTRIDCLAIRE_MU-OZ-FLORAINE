@@ -420,6 +420,7 @@ expected to increase by approximately 7.15 units, assuming all other factors rem
 + DEALSIZE_Medium
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When the DEALSIZE_Medium (compared to the baseline, possibly "Large" deal size), the dependent variable decreases by about 2502.92 units. This negative coefficient implies that medium-sized deals contribute less to the outcome than large deals, possibly due to lower transaction volumes or values in medium-sized deals. <br>
+ 
 + DEALSIZE_Small
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A DEALSIZE_Small is compared to a large deal size, decreases the dependent variable by around 3205.57 units. This further confirms that smaller deals result in substantially lower outcomes, perhaps due to reduced volume or value associated with these deals. <br>
@@ -431,15 +432,19 @@ expected to increase by approximately 7.15 units, assuming all other factors rem
 + PRODUCTLINE_Planes
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PRODUCTLINE_Planes reduces the outcome by around 120.47 units compared to the baseline. This significant negative impact suggests that planes are a less profitable or lower-selling product line. <br>
+ 
 + PRODUCTLINE_Ships 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PRODUCTLINE_Ships product line has a coefficient of -181.52, indicating a substantial decrease in the dependent variable when compared to the baseline product line. This may reflect lower demand or higher costs associated with this category. <br>
+ 
 + PRODUCTLINE_Trains
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PRODUCT_Trains, the dependent variable increases by 66.60 units. This positive coefficient implies that trains contribute positively to the outcome, possibly due to higher demand or pricing for this product line. <br>
+ 
 + PRODUCTLINE_Trucks and Buses
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PRODUCTLINE_Trucks and Buses, the outcome decreases slightly by about 1.05 units, indicating a minor negative effect.<br>
+ 
 + PRODUCTLINE_Vintage Cars
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PRODUCTLINE_Vintage Cars product line is associated with a decrease of approximately 73.13 units in the dependent variable. This may suggest a lower sales volume or profitability compared to more modern product lines. <br>
