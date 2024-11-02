@@ -405,38 +405,40 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 <img src="https://github.com/user-attachments/assets/b390ce27-8cfc-4007-8b6f-d0104287a635"style= "height: 250px;"> <br>
 
 + MSRP (Manufacturer's Suggested Retail Price)
-The coefficient of MRSP is 7.149870 in every unit increase in MSRP, the dependent variable is
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The coefficient of MRSP is 7.149870 in every unit increase in MSRP, the dependent variable is
 expected to increase by approximately 7.15 units, assuming all other factors remain constant. This positive relationship suggests that higher MSRP prices contribute positively to the outcome, potentially because higher MSRP might be linked to perceived value or product quality.
 + QUANTITYORDERED
- Each additional unit ordered is associated with a significant increase of approximately 67.90 units in the dependent variable. This strong positive coefficient indicates that larger order quantities drive higher outcomes, which is logical as higher quantities would naturally contribute to greater sales or revenue.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each additional unit ordered is associated with a significant increase of approximately 67.90 units in the dependent variable. This strong positive coefficient indicates that larger order quantities drive higher outcomes, which is logical as higher quantities would naturally contribute to greater sales or revenue.
 + PRICEEACH
- For every one-unit increase in the price per unit (PRICEEACH), the dependent variable increases by about 32.57 units. This positive relationship suggests that selling items at a higher price per unit is beneficial to the outcome, which is expected if the product retains demand at higher prices.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For every one-unit increase in the price per unit (PRICEEACH), the dependent variable increases by about 32.57 units. This positive relationship suggests that selling items at a higher price per unit is beneficial to the outcome, which is expected if the product retains demand at higher prices.
 + DEALSIZE_Medium
- When the DEALSIZE_Medium (compared to the baseline, possibly "Large" deal size), the dependent variable decreases by about 2502.92 units. This negative coefficient implies that medium-sized deals contribute less to the outcome than large deals, possibly due to lower
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When the DEALSIZE_Medium (compared to the baseline, possibly "Large" deal size), the dependent variable decreases by about 2502.92 units. This negative coefficient implies that medium-sized deals contribute less to the outcome than large deals, possibly due to lower
 transaction volumes or values in medium-sized deals.
 + DEALSIZE_Small
- A DEALSIZE_Small is compared to a large deal size, decreases the dependent variable by around
-3205.57 units. This further confirms that smaller deals result in substantially lower outcomes,
-perhaps due to reduced volume or value associated with these deals.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A DEALSIZE_Small is compared to a large deal size, decreases the dependent variable by around 3205.57 units. This further confirms that smaller deals result in substantially lower outcomes, perhaps due to reduced volume or value associated with these deals.
 + PRODUCTLINE_Motorcycles
-If the PRODUCT_Motorcycles (compared to a baseline product line, such as "Cars"), the dependent
-variable decreases by about 20.95 units. This negative coefficient indicates that sales or outcomes for motorcycles are generally lower than the baseline product line.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the PRODUCT_Motorcycles (compared to a baseline product line, such as "Cars"), the dependent variable decreases by about 20.95 units. This negative coefficient indicates that sales or outcomes for motorcycles are generally lower than the baseline product line.
 + PRODUCTLINE_Planes
- The PRODUCTLINE_Planes reduces the outcome by around 120.47 units compared to the baseline. This significant negative impact suggests that planes are a less profitable or lower-selling product line.
-+ PRODUCTLINE_Ships
- The PRODUCTLINE_Ships product line has a coefficient of -181.52, indicating a substantial
-decrease in the dependent variable when compared to the baseline product line. This may reflect
-lower demand or higher costs associated with this category.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PRODUCTLINE_Planes reduces the outcome by around 120.47 units compared to the baseline. This significant negative impact suggests that planes are a less profitable or lower-selling product line.
++ PRODUCTLINE_Ships 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PRODUCTLINE_Ships product line has a coefficient of -181.52, indicating a substantial decrease in the dependent variable when compared to the baseline product line. This may reflect lower demand or higher costs associated with this category.
 + PRODUCTLINE_Trains
- The PRODUCT_Trains, the dependent variable increases by 66.60 units. This positive coefficient
-implies that trains contribute positively to the outcome, possibly due to higher demand or pricing for this product line.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PRODUCT_Trains, the dependent variable increases by 66.60 units. This positive coefficient implies that trains contribute positively to the outcome, possibly due to higher demand or pricing for this product line.
 + PRODUCTLINE_Trucks and Buses
- PRODUCTLINE_Trucks and Buses, the outcome decreases slightly by about 1.05 units, indicating a
-minor negative effect.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PRODUCTLINE_Trucks and Buses, the outcome decreases slightly by about 1.05 units, indicating a minor negative effect.
 + PRODUCTLINE_Vintage Cars
- The PRODUCTLINE_Vintage Cars product line is associated with a decrease of approximately
-73.13 units in the dependent variable. This may suggest a lower sales volume or profitability
-compared to more modern product lines.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PRODUCTLINE_Vintage Cars product line is associated with a decrease of approximately 73.13 units in the dependent variable. This may suggest a lower sales volume or profitability compared to more modern product lines.
 
 **Overall Interpretation**
 Each coefficient represents the impact of a one-unit increase in the respective variable on the
