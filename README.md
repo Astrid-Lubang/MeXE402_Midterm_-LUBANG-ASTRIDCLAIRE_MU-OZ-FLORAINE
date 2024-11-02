@@ -458,6 +458,15 @@ Following are the objectives for Breast Cancer Wisconsin dataset:<br>
 
   <h1 align="center">LINEAR REGRESSION: SALES DATA</h1>
 
+ <p align="justify">
+ 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;The analysis of sales data demonstrates that linear regression is an effective method for predicting sales revenue. By using factors like quantity ordered and unit price, the model can predict sales performance. <br>
+   **Key Findings** 
+
+   + The linear regression model achieves accuracy in predicting sales, effectively to the relationship between product quantity and sales revenue.
+   + The R-squared value was 0.81012 approximately 81% means that the predictions is closely to the true value.
+   + Coefficients in regression analysis are important because they show how different factors affect outcomes, like sales. A high coefficient, such as 24.88 for the "shipped" status, means that timely fulfillment significantly boosts sales. This information helps businesses to know which factors they will prioritize for improvements. By comparing coefficients, companies can see how various statuses influence sales and make informed decisions to enhance operations and customer satisfaction. <br>
+
   <h1 align="center">LOGISTIC REGRESSION: BREAST CANCER WISCONSIN</h1>
 
  <p align="justify">
